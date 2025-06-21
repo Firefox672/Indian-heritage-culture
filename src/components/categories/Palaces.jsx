@@ -95,7 +95,7 @@ const Palaces = () => {
 
             <div className="modal-image-wrapper">
   <img
-    src={`/images/${selectedName}.png`} // 👈 Adjust the path to your image directory
+    src={`images/${selectedName}.png`} // 👈 Adjust the path to your image directory
     alt={selectedName}
     className="modal-image"
   />

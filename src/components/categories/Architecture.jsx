@@ -255,14 +255,14 @@ const Architecture = () => {
 
             <div className="modal-image-wrapper">
               <img
-                src={`/images/architecture/${selectedName}.webp`} // First attempt
+                src={`images/architecture/${selectedName}.webp`} // First attempt
                 alt={selectedName}
                 className="modal-image"
                 onError={(e) => {
                   // Fallback sequence when image fails to load
                   const fallbackFormats = ['.jpg', '.jpeg', '.png', '.avif'];
                   for (let ext of fallbackFormats) {
-                    const fallbackSrc = `/images/architecture/${selectedName}${ext}`;
+                    const fallbackSrc = `images/architecture/${selectedName}${ext}`;
                     const img = new Image();
                     img.src = fallbackSrc;
                     img.onload = () => {

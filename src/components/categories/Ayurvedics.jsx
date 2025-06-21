@@ -137,14 +137,14 @@ const Ayurvedics = () => {
 
             <div className="modal-image-wrapper">
               <img
-                src={`/images/ayurvedics/${selectedName}.webp`} // First attempt
+                src={`images/ayurvedics/${selectedName}.webp`} // First attempt
                 alt={selectedName}
                 className="modal-image"
                 onError={(e) => {
                   // Fallback sequence when image fails to load
                   const fallbackFormats = ['.jpg', '.jpeg', '.png', '.avif'];
                   for (let ext of fallbackFormats) {
-                    const fallbackSrc = `/images/ayurvedics/${selectedName}${ext}`;
+                    const fallbackSrc = `images/ayurvedics/${selectedName}${ext}`;
                     const img = new Image();
                     img.src = fallbackSrc;
                     img.onload = () => {

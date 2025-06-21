@@ -186,14 +186,14 @@ const Festivals = () => {
 
             <div className="modal-image-wrapper">
               <img
-                src={`/images/festivals/${selectedName}.webp`} // 👈 Adjust the path to your image directory
+                src={`images/festivals/${selectedName}.webp`} // 👈 Adjust the path to your image directory
                 alt={selectedName}
                 className="modal-image"
                 onError={(e) => {
                   // Fallback sequence when image fails to load
                   const fallbackFormats = ['.jpg', '.jpeg', '.png', '.avif'];
                   for (let ext of fallbackFormats) {
-                    const fallbackSrc = `/images/festivals/${selectedName}${ext}`;
+                    const fallbackSrc = `images/festivals/${selectedName}${ext}`;
                     const img = new Image();
                     img.src = fallbackSrc;
                     img.onload = () => {

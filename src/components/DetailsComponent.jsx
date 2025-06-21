@@ -4,15 +4,15 @@ import './DetailsComponent.css';
 
 
 const categoryData = [
-  { name: 'Indian\'s Architecture', image: '/images/India_Gate.webp', route: 'architecture' },
-  { name: 'Indian\'s Dance Forms', image: '/images/indian_dance_form.png' , route: 'dance'},
-  { name: 'Indian\'s Festivals', image: '/images/indian_festival.png' , route: 'festivals'},
-  { name: 'India\'s Cuisine', image: '/images/indian_food_1.png' , route: 'food'},
-  { name: 'Indian\'s Music', image: '/images/indian_music.png', route: 'music' },
-  { name: 'Indian\'s Crafts', image: '/images/indian_crafts.png', route: 'crafts' },
-  { name: 'Indian\'s Religions', image: '/images/indian_religion.png', route: 'religions' },
-  { name: 'India\'s Ayurvedics', image: '/images/indian_ayurvedic.png', route: 'ayurvedics' },
-  { name: 'India\'s Historic Palaces', image: '/images/indian_palaces.png', route: 'palaces' },
+  { name: 'Indian\'s Architecture', image: 'images/India_Gate.webp', route: 'architecture' },
+  { name: 'Indian\'s Dance Forms', image: 'images/indian_dance_form.png' , route: 'dance'},
+  { name: 'Indian\'s Festivals', image: 'images/indian_festival.png' , route: 'festivals'},
+  { name: 'India\'s Cuisine', image: 'images/indian_food_1.png' , route: 'food'},
+  { name: 'Indian\'s Music', image: 'images/indian_music.png', route: 'music' },
+  { name: 'Indian\'s Crafts', image: 'images/indian_crafts.png', route: 'crafts' },
+  { name: 'Indian\'s Religions', image: 'images/indian_religion.png', route: 'religions' },
+  { name: 'India\'s Ayurvedics', image: 'images/indian_ayurvedic.png', route: 'ayurvedics' },
+  { name: 'India\'s Historic Palaces', image: 'images/indian_palaces.png', route: 'palaces' },
 ];
 
 const CategoryBoxes = ({ visibilityArray }) => {
