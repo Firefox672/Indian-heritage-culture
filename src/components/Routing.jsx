@@ -40,7 +40,7 @@ function LayoutWrapper() {
 
 function Routing() {
   return (
-    <Router>
+    <Router basename="/indian-heritage-culture">
       <LayoutWrapper />
     </Router>
   );
