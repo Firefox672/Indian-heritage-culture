@@ -1,0 +1,770 @@
+{
+  "Adina Mosque": {
+    "Sub-structure": "Central Vaulted Iwan (largest single—80 ft span)",
+    "Location": "Malda, WB, (25.0390° N, 88.1372° E)",
+    "Time-period": "Ilyas Shahi (c. 1373 CE)",
+    "Material-used": "Brick",
+    "Status": "Protected, ruined façade",
+    "Source": "ASI “Protected Monuments, WB”; Dani 2000"
+  },
+  "Global Education Centre": {
+    "Sub-structure": "LEED Platinum building (curved glass façade, atrium)",
+    "Location": "Mysore, KY, KA, (12.2958° N, 76.6394° E)",
+    "Time-period": "2004 (LEED 2008)",
+    "Material-used": "Glass, steel, concrete",
+    "Status": "Active, LEED Platinum",
+    "Source": "Infosys Sustainability Report 2008; U.S. GBC “LEED India Directory”"
+  },
+  "Sattapadi Mandap": {
+    "Sub-structure": "Seven-stepped hall (seven shrines around)",
+    "Location": "Dilwara, Sirohi, RJ, (24.5918° N, 72.7142° E)",
+    "Time-period": "Solanki (c. 1026 CE)",
+    "Material-used": "White marble",
+    "Status": "Protected, active shrine",
+    "Source": "ASI 1964; Michell 1985"
+  },
+  "Shore Temple": {
+    "Sub-structure": "Main Temple (square plan, bhūmija shikhara)",
+    "Location": "Mamallapuram Taluk, Chengalpattu, TN, (12.6161° N, 80.1939° E)",
+    "Time-period": "Pallava (c. 700 CE)",
+    "Material-used": "Granite",
+    "Status": "Protected, UNESCO site",
+    "Source": "ASI “Monuments of Mahabalipuram,” UNESCO 1984"
+  },
+  "Mohenjo-daro": {
+    "Sub-structure": "Citadel (Great Bath)",
+    "Location": "Larkana District, Sindh (now PK), (27.3299° N, 68.1385° E)",
+    "Time-period": "Mature Harappan",
+    "Material-used": "Baked brick",
+    "Status": "Excavated, UNESCO World Heritage",
+    "Source": "ASI Harappan Monuments Vol I; UNESCO 1979 nomination"
+  },
+  "Jhukar": {
+    "Sub-structure": "Chalcolithic Settlement",
+    "Location": "Karachi District, Sindh (now PK), (24.9111° N, 67.0477° E)",
+    "Time-period": "Late Harappan",
+    "Material-used": "Mud-brick",
+    "Status": "Excavated, partially exposed",
+    "Source": "ASI “Chalcolithic Sites” listing (Sindh volume)"
+  },
+  "Pittalhar Temple": {
+    "Sub-structure": "Entrance Mandapa (18 pillars, brass ceiling)",
+    "Location": "Dilwara, Sirohi, RJ, (24.5921° N, 72.7145° E)",
+    "Time-period": "Solanki (c. 1280 CE)",
+    "Material-used": "White marble",
+    "Status": "Protected, active shrine",
+    "Source": "ASI 1964; Michell 1985"
+  },
+  "Dakhineswar Kali Temple": {
+    "Sub-structure": "Nava-ratna spire cluster (nine towers)",
+    "Location": "Kolkata Suburban, WB, (22.6544° N, 88.3645° E)",
+    "Time-period": "Rani Rashmoni (c. 1855 CE)",
+    "Material-used": "Brick/Terracotta",
+    "Status": "Protected, active shrine",
+    "Source": "ASI “Monuments of WB—Kolkata,” 1972; Lahiri 1980"
+  },
+  "Cave 2": {
+    "Sub-structure": "Vihara cells (c. 12 cells)",
+    "Location": "Pune District, MH, (19.7675° N, 73.8972° E)",
+    "Time-period": "Śātavāhana (c. 2nd century CE)",
+    "Material-used": "Basalt",
+    "Status": "Protected, visited",
+    "Source": "ASI “Rock-Cut Monuments, Maharashtra”"
+  },
+  "Lincoln House": {
+    "Sub-structure": "Façade (vertical pilasters, metal grillwork)",
+    "Location": "Churchgate, Mumbai, MH, (18.9253° N, 72.8342° E)",
+    "Time-period": "Art Deco (1938)",
+    "Material-used": "RCC, steel",
+    "Status": "Protected, office building",
+    "Source": "Roy 2015; Heritage Walks Mumbai 2018"
+  },
+  "GPO": {
+    "Sub-structure": "Tower block (exposed aggregate finish)",
+    "Location": "New Delhi, Delhi, (28.6206° N, 77.2081° E)",
+    "Time-period": "Brutalist (c. 1974 CE)",
+    "Material-used": "Concrete",
+    "Status": "Active, preserved heritage",
+    "Source": "“Brutalist India” 2018; ASI 1995"
+  },
+  "Administration Block": {
+    "Sub-structure": "Facade (exposed concrete fins, ribbon windows)",
+    "Location": "Kanpur, UP, (26.5126° N, 80.2329° E)",
+    "Time-period": "Modernist/Brutalist (c. 1960–1963 CE)",
+    "Material-used": "Reinforced concrete",
+    "Status": "Active, original structure",
+    "Source": "IIT Kanpur archives; Mitra 1980"
+  },
+  "Rasmancha": {
+    "Sub-structure": "Central Square Pavilion (pyramidal roof)",
+    "Location": "Bishnupur, Bankura, WB, (23.2447° N, 87.3233° E)",
+    "Time-period": "Malla Dynasty (c. 1600 CE)",
+    "Material-used": "Brick/Terracotta",
+    "Status": "Protected, conserved",
+    "Source": "McCutchion 1974; ASI “Protected Monuments, WB—Bishnupur,” 1980"
+  },
+  "Rainwater Harvest Tanks": {
+    "Sub-structure": "Underground cisterns (50,000 liters each, 20 units)",
+    "Location": "Mysore, KY, KA, (12.2961° N, 76.6391° E)",
+    "Time-period": "2005",
+    "Material-used": "Reinforced concrete",
+    "Status": "Active, functioning",
+    "Source": "Infosys Sustainability Report 2008"
+  },
+  "Pondicherry French Quarter": {
+    "Sub-structure": "Église de Notre Dame des Anges (church)",
+    "Location": "Pondicherry, (11.9299° N, 79.8253° E)",
+    "Time-period": "French Colonial (1855 CE)",
+    "Material-used": "Brick, lime",
+    "Status": "Protected, active church",
+    "Source": "ASI “Monuments of Puducherry,” 1980; Herit. Auth. 2005"
+  },
+  "Sudama Cave": {
+    "Sub-structure": "Main Chamber (vaulted, polished)",
+    "Location": "Gaya District, Bihar, (24.7928° N, 85.0008° E)",
+    "Time-period": "Mauryan (c. 262 BCE)",
+    "Material-used": "Granite",
+    "Status": "Protected, visited site",
+    "Source": "ASI “Cave Monuments of Bihar,” 1972"
+  },
+  "Dadar Art Deco Residences": {
+    "Sub-structure": "Corner tower (cubist form, wraparound balcony)",
+    "Location": "Dadar, Mumbai, MH, (19.0199° N, 72.8427° E)",
+    "Time-period": "Art Deco (1935–1940)",
+    "Material-used": "RCC",
+    "Status": "Many occupied, unlisted",
+    "Source": "Roy 2015; INTACH “Mumbai Deco,” 2010"
+  },
+  "Gajendra Circle": {
+    "Sub-structure": "Integrated Water Treatment Sculpture (rainwater harvest)",
+    "Location": "Mysore, KY, KA, (12.2960° N, 76.6395° E)",
+    "Time-period": "2005",
+    "Material-used": "Concrete, steel, landscaping",
+    "Status": "Active landmark",
+    "Source": "Infosys Sustainability Report 2008"
+  },
+  "Harappa": {
+    "Sub-structure": "Columned Hall (Granary-Phase)",
+    "Location": "Sahiwal District, Punjab (now PK), (30.9310° N, 72.8486° E)",
+    "Time-period": "Mature Harappan",
+    "Material-used": "Baked brick",
+    "Status": "Excavated, UNESCO site",
+    "Source": "ASI Harappan Monuments Vol II; UNESCO"
+  },
+  "Tomb of Ghiyath al-Din Tughlaq": {
+    "Sub-structure": "Central Chamber (octagonal, sandstone)",
+    "Location": "Tughlaqabad, Delhi, (28.5371° N, 77.2705° E)",
+    "Time-period": "Tughlaq (c. 1325 CE)",
+    "Material-used": "Grey sandstone",
+    "Status": "Protected, Quasipilgrim path",
+    "Source": "ASI “Monuments of Delhi,” 1981; Dua 1996"
+  },
+  "Circular Plaza": {
+    "Sub-structure": "Paved courtyard (granite inlays)",
+    "Location": "Amaravati, Guntur, AP, (16.5110° N, 80.6483° E)",
+    "Time-period": "Doshi (c. 1991 CE)",
+    "Material-used": "Granite, brick",
+    "Status": "Active, in use",
+    "Source": "Doshi monograph (1992); IIA Journal 1991"
+  },
+  "Khirki Mosque": {
+    "Sub-structure": "Prayer Hall (12 bay, tripartite dome)",
+    "Location": "Malviya Nagar, Delhi, (28.5363° N, 77.1700° E)",
+    "Time-period": "Tughlaq (c. 1325 CE)",
+    "Material-used": "Basalt",
+    "Status": "Protected, active mosque",
+    "Source": "ASI 1981; Asher 1992"
+  },
+  "Meru Temple": {
+    "Sub-structure": "Jali Screens (dot-pattern lattice)",
+    "Location": "Dilwara, Sirohi, RJ, (24.5920° N, 72.7148° E)",
+    "Time-period": "Solanki (c. 1026 CE)",
+    "Material-used": "White marble",
+    "Status": "Protected, active shrine",
+    "Source": "ASI 1964; Michell 1985"
+  },
+  "Assembly Auditorium Complex": {
+    "Sub-structure": "Timber-screened windows (vernacular motif)",
+    "Location": "Amaravati, Guntur, AP, (16.5113° N, 80.6481° E)",
+    "Time-period": "Doshi (c. 1991 CE)",
+    "Material-used": "Brick, timber",
+    "Status": "Active, in use",
+    "Source": "Doshi monograph (1992); IIA Journal 1991"
+  },
+  "Chaneti Temple": {
+    "Sub-structure": "Stained wall inscriptions",
+    "Location": "Chhatarpur District, MP, (24.9178° N, 79.8951° E)",
+    "Time-period": "Chandela (c. 880 CE)",
+    "Material-used": "Sandstone",
+    "Status": "Ruin",
+    "Source": "ASI “Chhatarpur District Gazeteer,” 1997"
+  },
+  "IIT Kharagpur": {
+    "Sub-structure": "Concrete lattice façade (brise-soleil)",
+    "Location": "Kharagpur, WB, (22.3241° N, 87.3421° E)",
+    "Time-period": "Brutalist (c. 1962 CE)",
+    "Material-used": "Concrete",
+    "Status": "Active, heritage marked",
+    "Source": "IIT Kharagpur archives; “Brutalist India” 2018"
+  },
+  "Faculty Housing": {
+    "Sub-structure": "Flat roof, brise-soleil sunshades",
+    "Location": "Kanpur, UP, (26.5140° N, 80.2320° E)",
+    "Time-period": "Modernist (c. 1960 CE)",
+    "Material-used": "Concrete",
+    "Status": "Active residences",
+    "Source": "Mitra 1980; IIT Kanpur archives"
+  },
+  "Bhitargaon Durga Temple": {
+    "Sub-structure": "Sanctum (early brick plan, north-facing)",
+    "Location": "Kanpur Dehat District, UP, (26.3162° N, 79.9256° E)",
+    "Time-period": "Late Gupta (c. 480 CE)",
+    "Material-used": "Brick",
+    "Status": "Excavated, partially reconstructed",
+    "Source": "ASI “Protected Monuments, UP”; Wilson 2001"
+  },
+  "Quwwat al-Islam Mosque": {
+    "Sub-structure": "Main Prayer Hall (with 27 Roman-style columns)",
+    "Location": "Mehrauli District, Delhi, (28.5245° N, 77.1855° E)",
+    "Time-period": "Slave Dynasty (c. 1193 CE)",
+    "Material-used": "Red sandstone, marble",
+    "Status": "Protected, active mosque",
+    "Source": "ASI “Monuments of Delhi,” 1981; Asher 1992"
+  },
+  "Gangaikonda Cholapuram": {
+    "Sub-structure": "Vimana (51 m tall, brick core with stucco)",
+    "Location": "Ariyalur Taluk, Ariyalur, TN, (11.0723° N, 79.6217° E)",
+    "Time-period": "Chola (c. 1035 CE)",
+    "Material-used": "Brick/Stucco",
+    "Status": "Protected, UNESCO tentative",
+    "Source": "ASI “Protected Monuments, TN—Gangaikonda Cholapuram,” 1970"
+  },
+  "Taj Mahal Garden": {
+    "Sub-structure": "Four Quadrants (each with four pools, 37 m long)",
+    "Location": "Agra, UP, (27.1747° N, 78.0420° E)",
+    "Time-period": "Shah Jahan (1631–1653 CE)",
+    "Material-used": "Sandstone + white marble",
+    "Status": "Protected, UNESCO site",
+    "Source": "ASI 2002; Asher 1992"
+  },
+  "Chausath Yogini Temple": {
+    "Sub-structure": "Circumambulatory Circle (64 shrines, 100 m diameter)",
+    "Location": "Chhatarpur District, MP, (24.8514° N, 79.9260° E)",
+    "Time-period": "Chandela (c. 950 CE)",
+    "Material-used": "Sandstone",
+    "Status": "Ruin, partial restoration",
+    "Source": "Meister 1999; ASI MP Ring Temples listing"
+  },
+  "Alamgirpur": {
+    "Sub-structure": "Vedic-Period Wattle-Daub Hut Remains",
+    "Location": "Ghaziabad District, UP, (28.7828° N, 77.5155° E)",
+    "Time-period": "Late Vedic “PGW” (~1200 BCE)",
+    "Material-used": "Wattle-daub",
+    "Status": "Ruins (excavated pits)",
+    "Source": "ASI Excavation Report 1951; PGW Studies (Bird & Frankfort, 1970)"
+  },
+  "Chaturbhuja Temple": {
+    "Sub-structure": "South porch carving (Tandava panel)",
+    "Location": "Chhatarpur District, MP, (24.8522° N, 79.9231° E)",
+    "Time-period": "Chandela (c. 1000 CE)",
+    "Material-used": "Sandstone",
+    "Status": "Conserved",
+    "Source": "ASI “Khajuraho Group” dossier, Meister 1999"
+  },
+  "Itimad-ud-Daulah": {
+    "Sub-structure": "Tomb (white marble pietra dura)",
+    "Location": "Agra, UP, (27.1774° N, 78.0179° E)",
+    "Time-period": "Nur Jahan (1622–1628 CE)",
+    "Material-used": "White marble",
+    "Status": "Protected, UNESCO site",
+    "Source": "ASI “Agra Monuments,” 1999; Asher 1992"
+  },
+  "Luna Vasahi Temple": {
+    "Sub-structure": "Manastambha (60 ft pillar with spire)",
+    "Location": "Dilwara, Sirohi, RJ, (24.5926° N, 72.7161° E)",
+    "Time-period": "Solanki (c. 1230 CE)",
+    "Material-used": "White marble",
+    "Status": "Protected, active shrine",
+    "Source": "ASI 1964; Banerji 1990"
+  },
+  "Fatehpur Sikri": {
+    "Sub-structure": "Gateway (54 m tall, nine pointed archways)",
+    "Location": "Agra District, UP, (27.0934° N, 78.0157° E)",
+    "Time-period": "Akbar (c. 1601 CE)",
+    "Material-used": "Red sandstone + marble",
+    "Status": "Protected, UNESCO site",
+    "Source": "ASI “Fatehpur Sikri Monograph,” 1997; Asher 1988"
+  },
+  "Pancha Rathas": {
+    "Sub-structure": "Monolithic Ratha (chariot) with lion heads",
+    "Location": "Mamallapuram Taluk, Chengalpattu, TN, (12.6193° N, 80.1973° E)",
+    "Time-period": "Pallava (c. 650 CE)",
+    "Material-used": "Granite",
+    "Status": "Protected, UNESCO site",
+    "Source": "ASI IAIS, Srinivasan 1972; UNESCO 1984"
+  },
+  "IT Tower 1": {
+    "Sub-structure": "Double-helix floor plan, glass curtain wall",
+    "Location": "Mysore, KY, KA, (12.2957° N, 76.6392° E)",
+    "Time-period": "2010",
+    "Material-used": "Steel, glass, RCC",
+    "Status": "Active, iconic tower",
+    "Source": "News18 “Infosys Mysore IT1 Launch,” 2010"
+  },
+  "Charminar": {
+    "Sub-structure": "Four minarets (each 56 m tall, octagonal)",
+    "Location": "Hyderabad, TG, (17.3616° N, 78.4747° E)",
+    "Time-period": "Qutb Shahi (c. 1591 CE)",
+    "Material-used": "Granite",
+    "Status": "Protected, active landmark",
+    "Source": "ASI “Protected Monuments, TG—Hyderabad,” 1970; Qureshi 2007"
+  },
+  "Mehrgarh": {
+    "Sub-structure": "Neolithic Mud-brick Huts",
+    "Location": "Kachchh District, Balochistan (now PK), (29.3042° N, 67.8636° E)",
+    "Time-period": "Neolithic",
+    "Material-used": "Mud-brick",
+    "Status": "Excavated",
+    "Source": "Possehl 1988; ASI “Neolithic Site List”"
+  },
+  "Metro House": {
+    "Sub-structure": "Flat roof, ribbon windows",
+    "Location": "Ulsoor, Bengaluru, KA, (12.9791° N, 77.6100° E)",
+    "Time-period": "Art Deco (1939)",
+    "Material-used": "RCC",
+    "Status": "Partially conserved",
+    "Source": "Bangalore Heritage Commission 2015"
+  },
+  "near Gaya": {
+    "Sub-structure": "Unfinished “Digwada” Pillar fragment",
+    "Location": "Gaya District, Bihar, (24.7890° N, 84.9990° E)",
+    "Time-period": "Mauryan (c. 250 BCE)",
+    "Material-used": "Sandstone",
+    "Status": "Fragment (in situ)",
+    "Source": "Chakrabarty 1984 (excavation journal)"
+  },
+  "Devi Jagadambi Temple": {
+    "Sub-structure": "Sculptural Niche Panels (Sarasvati panel)",
+    "Location": "Chhatarpur District, MP, (24.8501° N, 79.9225° E)",
+    "Time-period": "Chandela (c. 1000 CE)",
+    "Material-used": "Sandstone",
+    "Status": "Conserved",
+    "Source": "Meister 1999; ASI “Khajuraho Monuments”"
+  },
+  "Rashmoni Ghat Mandir": {
+    "Sub-structure": "Rekha-deul type (bare stone, restored 2000)",
+    "Location": "Kolkata, WB, (22.5550° N, 88.3431° E)",
+    "Time-period": "18th century original",
+    "Material-used": "Stone/Terracotta",
+    "Status": "Restored, active",
+    "Source": "Kolkata Heritage Cell (2012)"
+  },
+  "Annamalaiyar Temple": {
+    "Sub-structure": "Vimana (eastern tower, 66 m)",
+    "Location": "Thiruvannamalai Taluk, Tamil Nadu, (12.2253° N, 79.0727° E)",
+    "Time-period": "Chola/Pandya (c. 973–1150 CE)",
+    "Material-used": "Granite",
+    "Status": "Protected, expanded",
+    "Source": "ASI “Protected Monuments, TN;” Jumper 2002"
+  },
+  "Duladeo": {
+    "Sub-structure": "Darshan Mandapa (ornate ceiling panel)",
+    "Location": "Chhatarpur District, MP, (24.8575° N, 79.9315° E)",
+    "Time-period": "Chandela (c. 1100 CE)",
+    "Material-used": "Sandstone",
+    "Status": "Conserved",
+    "Source": "ASI MP Monuments; Meister 1999"
+  },
+  "Jor Bangla Temple": {
+    "Sub-structure": "Double-hut style with terracotta panels",
+    "Location": "Bishnupur, Bankura, WB, (23.2452° N, 87.3238° E)",
+    "Time-period": "Malla Dynasty (c. 1655 CE)",
+    "Material-used": "Brick/Terracotta",
+    "Status": "Protected, conserved",
+    "Source": "McCutchion 1974; ASI 1980"
+  },
+  "Ministerial Block": {
+    "Sub-structure": "Cantilevered balconies (exposed brick frame)",
+    "Location": "Amaravati, Guntur, AP, (16.5110° N, 80.6482° E)",
+    "Time-period": "Doshi (c. 1991 CE)",
+    "Material-used": "Brick, concrete",
+    "Status": "Active, in use",
+    "Source": "Doshi monograph (1992); IIA Journal 1991"
+  },
+  "Vimal Vasahi Temple": {
+    "Sub-structure": "Central Sanctum (garbhagriha, 12 pillar mandapa)",
+    "Location": "Dilwara, Sirohi, RJ, (24.5923° N, 72.7158° E)",
+    "Time-period": "Solanki (c. 1026 CE)",
+    "Material-used": "White marble",
+    "Status": "Protected, active shrine",
+    "Source": "ASI “Dilwara Temples Monograph,” 1964; Michell 1985"
+  },
+  "Kailasanatha Temple": {
+    "Sub-structure": "Sanctum (rock-cut sanctuary with jatara)",
+    "Location": "Kanchipuram Taluk, Kanchipuram, TN, (12.8308° N, 79.7112° E)",
+    "Time-period": "Pallava (c. 700 CE)",
+    "Material-used": "Granite",
+    "Status": "Protected, conserved",
+    "Source": "ASI Protected Monuments, TN; Srinivasan 1970"
+  },
+  "Dholavira": {
+    "Sub-structure": "Citadel, Middle Town, Lower Town",
+    "Location": "Kutch District, Gujarat, (23.8333° N, 69.7072° E)",
+    "Time-period": "Mature Harappan",
+    "Material-used": "Baked brick",
+    "Status": "Excavated, UNESCO site",
+    "Source": "ASI Harappan Monuments Vol III; UNESCO 1984"
+  },
+  "Gateway of India": {
+    "Sub-structure": "Arch (central span 26 m, Indo-Saracenic style)",
+    "Location": "Mumbai, MH, (18.9218° N, 72.8338° E)",
+    "Time-period": "Indo-Saracenic (1924 CE)",
+    "Material-used": "Yellow basalt, reinforced concrete",
+    "Status": "Protected, active landmark",
+    "Source": "ASI 1985; Harrison 1992"
+  },
+  "Palitana Hilltop Temples": {
+    "Sub-structure": "Temple Nos. 1–863 (each small marble shrine)",
+    "Location": "Palitana Taluk, Bhavnagar, GJ, (21.8066° N, 72.1537° E)",
+    "Time-period": "11th–19th centuries mean",
+    "Material-used": "White marble",
+    "Status": "Protected, active pilgrimage",
+    "Source": "Palitana Jain Trust (2020), Jaini 2000"
+  },
+  "Javari": {
+    "Sub-structure": "Linga shrine (small sanctum, east-facing)",
+    "Location": "Chhatarpur District, MP, (24.8602° N, 79.9421° E)",
+    "Time-period": "Chandela (c. 930 CE)",
+    "Material-used": "Sandstone",
+    "Status": "Conserved",
+    "Source": "ASI MP Monuments; Meister 1999"
+  },
+  "Taj Mahal": {
+    "Sub-structure": "Mirror Mosque (red sandstone symmetrical)",
+    "Location": "Agra, UP, (27.1753° N, 78.0421° E)",
+    "Time-period": "Shah Jahan (1631–1643 CE)",
+    "Material-used": "Red sandstone + marble",
+    "Status": "Protected, UNESCO site",
+    "Source": "ASI 2002; Asher 1992"
+  },
+  "Metro Land Mark": {
+    "Sub-structure": "Geometric relief panels (terrazo floor, stucco façade)",
+    "Location": "Park Street, Kolkata, WB, (22.5657° N, 88.3525° E)",
+    "Time-period": "Art Deco (1938)",
+    "Material-used": "RCC, stucco",
+    "Status": "Protected, commercial",
+    "Source": "Chakrabarti 2014; ASI Kolkata 2012"
+  },
+  "Krishna’s Butter Ball": {
+    "Sub-structure": "Natural rock formation (later shrine site)",
+    "Location": "Mamallapuram Taluk, Chengalpattu, TN, (12.6185° N, 80.1980° E)",
+    "Time-period": "Natural but used from Pallava era",
+    "Material-used": "Granite",
+    "Status": "Tourist landmark, uninscribed",
+    "Source": "Srinivasan 1972; local EPW articles"
+  },
+  "K. C. Das House": {
+    "Sub-structure": "Façade (zigzag motifs, glass block panels)",
+    "Location": "Burrabazar, Kolkata, WB, (22.5456° N, 88.3535° E)",
+    "Time-period": "Art Deco (1936)",
+    "Material-used": "RCC, glass",
+    "Status": "Protected, occupied",
+    "Source": "Chakrabarti 2014; ASI Kolkata 2012"
+  },
+  "Victoria Terminus": {
+    "Sub-structure": "Main Station Hall (ribbed vaulting)",
+    "Location": "Mumbai, MH, (18.9406° N, 72.8352° E)",
+    "Time-period": "Gothic Revival (1887 CE)",
+    "Material-used": "Sandstone, limestone",
+    "Status": "Protected, UNESCO site",
+    "Source": "ASI “Monuments of Maharashtra—Mumbai,” 1985"
+  },
+  "Alai Darwaza": {
+    "Sub-structure": "Arch and Dome (first true Islamic arch in India, 1311 CE)",
+    "Location": "Mehrauli District, Delhi, (28.5243° N, 77.1854° E)",
+    "Time-period": "Khilji (c. 1311 CE)",
+    "Material-used": "White marble, red sandstone",
+    "Status": "Protected",
+    "Source": "ASI 1981; Asher 1992"
+  },
+  "Five Mandapas": {
+    "Sub-structure": "Dvarapala statue (guardian figure)",
+    "Location": "Mamallapuram Taluk, Chengalpattu, TN, (12.6201° N, 80.1981° E)",
+    "Time-period": "Pallava (c. 650 CE)",
+    "Material-used": "Granite",
+    "Status": "Protected, conserved",
+    "Source": "ASI Monograph 1984; Srinivasan 1972"
+  },
+  "Metro Cinema": {
+    "Sub-structure": "Rounded corner windows, neon marquee",
+    "Location": "Churchgate, Mumbai, MH, (18.9250° N, 72.8330° E)",
+    "Time-period": "Art Deco (1933)",
+    "Material-used": "RCC",
+    "Status": "Protected, in use",
+    "Source": "Roy 2015; ASI “Mumbai Monuments,” 2014"
+  },
+  "Deogarh Vishnu Temple": {
+    "Sub-structure": "Sanctum (main garbhagriha)",
+    "Location": "Lalitpur District, UP, (24.6397° N, 79.5663° E)",
+    "Time-period": "Gupta (c. 500 CE)",
+    "Material-used": "Sandstone",
+    "Status": "Excavated, conserved",
+    "Source": "ASI “Protected Monuments, UP”; Meister 1988"
+  },
+  "Madras High Court": {
+    "Sub-structure": "Main Façade (Gothic arched windows, domes)",
+    "Location": "Chennai, TN, (13.0858° N, 80.2750° E)",
+    "Time-period": "Indo-Saracenic (1892 CE)",
+    "Material-used": "Brick, mortar",
+    "Status": "Protected, active court",
+    "Source": "ASI “Monuments of Tamil Nadu—Chennai,” 1975"
+  },
+  "Eros Cinema": {
+    "Sub-structure": "Façade (streamlined parapet, chevron motif)",
+    "Location": "Churchgate, Mumbai, MH, (18.9250° N, 72.8330° E)",
+    "Time-period": "Art Deco (1938)",
+    "Material-used": "Reinforced concrete",
+    "Status": "Protected, in use",
+    "Source": "Roy 2015; INTACH “Mumbai Deco,” 2010"
+  },
+  "Rakhigarhi": {
+    "Sub-structure": "Brick Core Citadel (Phase I)",
+    "Location": "Hisar District, Haryana (India), (29.5900° N, 76.5600° E)",
+    "Time-period": "Mature Harappan",
+    "Material-used": "Baked brick",
+    "Status": "Excavated, ongoing research",
+    "Source": "ASI Harappan Monuments Vol III; Rakhigarhi Excavation Report"
+  },
+  "Sethubandha Ramar": {
+    "Sub-structure": "Brick shrine (small, 1 cell, 8 × 8 m plan)",
+    "Location": "Thanjavur Taluk, TN, (10.7895° N, 79.1355° E)",
+    "Time-period": "Chola (c. 1000 CE)",
+    "Material-used": "Brick",
+    "Status": "Ruins, excavated",
+    "Source": "ASI “Thanjavur District Monuments,” 1975"
+  },
+  "Shyamrai Temple": {
+    "Sub-structure": "Three-storied roof-type temple (square plan)",
+    "Location": "Bishnupur, Bankura, WB, (23.2450° N, 87.3240° E)",
+    "Time-period": "Malla Dynasty (c. 1643 CE)",
+    "Material-used": "Brick/Terracotta",
+    "Status": "Protected, conserved",
+    "Source": "McCutchion 1974; ASI 1980"
+  },
+  "Lakshmana Temple": {
+    "Sub-structure": "Porches (north, south, west entrances)",
+    "Location": "Chhatarpur District, MP, (24.8489° N, 79.9242° E)",
+    "Time-period": "Chandela (c. 930 CE)",
+    "Material-used": "Sandstone",
+    "Status": "Conserved",
+    "Source": "ASI MP Monuments; Meister 1999"
+  },
+  "PMO Building": {
+    "Sub-structure": "Central Wing (Brutalist facade, roughcast)",
+    "Location": "New Delhi, Delhi, (28.6129° N, 77.2273° E)",
+    "Time-period": "Brutalist (c. 1970 CE)",
+    "Material-used": "Concrete",
+    "Status": "Active, partially renovated",
+    "Source": "“Brutalist India” 2018; ASI “Monuments of Delhi,” 1995"
+  },
+  "Kantajew Temple": {
+    "Sub-structure": "Ratna style (seven ratnas, terracotta panels)",
+    "Location": "Dinajpur (now BD), (25.8125° N, 88.6020° E)",
+    "Time-period": "Dinajpur Maharaja (c. 1801 CE)",
+    "Material-used": "Brick/Terracotta",
+    "Status": "Protected (Bangladesh)",
+    "Source": "ASI (BD) “Protected Monuments”; UNESCO 1984"
+  },
+  "Vishvanatha Temple": {
+    "Sub-structure": "Jagamohana (assembly hall, square plan)",
+    "Location": "Chhatarpur District, MP, (24.8520° N, 79.9223° E)",
+    "Time-period": "Chandela (c. 1002 CE)",
+    "Material-used": "Sandstone",
+    "Status": "Conserved",
+    "Source": "UNESCO 1986; Amar Nath 2014"
+  },
+  "Visva‐Gaurav": {
+    "Sub-structure": "Inscribed Dedication Panel (Brahmi)",
+    "Location": "Gaya District, Bihar, (24.7896° N, 85.0017° E)",
+    "Time-period": "Mauryan (c. 266 BCE)",
+    "Material-used": "Granite",
+    "Status": "Protected, visited site",
+    "Source": "ASI “Barabar Group” listing"
+  },
+  "Cave 1": {
+    "Sub-structure": "Main Chaitya Hall (16 pillars, horseshoe arch)",
+    "Location": "Pune District, MH, (19.7675° N, 73.8972° E)",
+    "Time-period": "Śātavāhana (c. 2nd century CE)",
+    "Material-used": "Basalt",
+    "Status": "Protected, visited",
+    "Source": "ASI “Rock-Cut Monuments, Maharashtra”"
+  },
+  "Red Fort": {
+    "Sub-structure": "Public Audience Hall (pietra dura, marble columns)",
+    "Location": "Old Delhi, Delhi, (28.6562° N, 77.2410° E)",
+    "Time-period": "Shah Jahan (c. 1648 CE)",
+    "Material-used": "Red sandstone + marble",
+    "Status": "Protected, UNESCO site",
+    "Source": "ASI “Red Fort Monograph,” 1995; Asher 1992"
+  },
+  "Shyam Ray Temple": {
+    "Sub-structure": "Extensive terracotta facade (Ramayana scenes)",
+    "Location": "Bishnupur, Bankura, WB, (23.2450° N, 87.3240° E)",
+    "Time-period": "Malla Dynasty (c. 1643 CE)",
+    "Material-used": "Brick/Terracotta",
+    "Status": "Protected, conserved",
+    "Source": "ASI ATALOG; McCutchion 1974"
+  },
+  "Employee Housing": {
+    "Sub-structure": "Passive-cooling concrete louvers, double-skin façades",
+    "Location": "Mysore, KY, KA, (12.2959° N, 76.6393° E)",
+    "Time-period": "2006",
+    "Material-used": "RCC, brick",
+    "Status": "Active, LEED Gold equivalent",
+    "Source": "U.S. GBC “LEED India Directory”; Infosys Report 2008"
+  },
+  "Nachna Baldeo Temple": {
+    "Sub-structure": "Sanctum (stone superstructure)",
+    "Location": "Panna District, MP, (24.6881° N, 80.1833° E)",
+    "Time-period": "Gupta (c. 450 CE)",
+    "Material-used": "Stone",
+    "Status": "Excavated, conserved",
+    "Source": "ASI “Protected Monuments, MP”; Meister 1988"
+  },
+  "Kanheri Cave 3": {
+    "Sub-structure": "Chaitya arch tympanum",
+    "Location": "Mumbai Suburban, MH, (19.1916° N, 72.8562° E)",
+    "Time-period": "Śātavāhana/Kuṣāṇa (c. 1st – 2nd century CE)",
+    "Material-used": "Basalt",
+    "Status": "Protected, visited",
+    "Source": "ASI “Rock-Cut Monuments, Maharashtra”"
+  },
+  "Assembly Hall": {
+    "Sub-structure": "Red brick facade with sloping tiled roof",
+    "Location": "Amaravati, Guntur, AP, (16.5112° N, 80.6480° E)",
+    "Time-period": "Doshi (c. 1991 CE)",
+    "Material-used": "Brick, tile",
+    "Status": "Active, in use",
+    "Source": "“Contemporary Indian Architecture,” 2000; IIA Journal, 1991"
+  },
+  "Atala Masjid": {
+    "Sub-structure": "Main Terrace (Arabic arcaded cloister, façade)",
+    "Location": "Jaunpur, UP, (25.7500° N, 82.6833° E)",
+    "Time-period": "Sharqi (c. 1377 CE)",
+    "Material-used": "Brick/Terra-cotta",
+    "Status": "Protected",
+    "Source": "ASI “Monuments of UP—Jaunpur,” 2002; Syed Ali 2006"
+  },
+  "Bhaja Chaitya Cave 1": {
+    "Sub-structure": "Main Chaitya Hall (16 pillars, horseshoe arch)",
+    "Location": "Pune District, MH, (19.7675° N, 73.8972° E)",
+    "Time-period": "Śātavāhana (c. 2nd century CE)",
+    "Material-used": "Basalt",
+    "Status": "Protected, visited",
+    "Source": "ASI “Rock-Cut Monuments, Maharashtra”"
+  },
+  "Lomas Rishi": {
+    "Sub-structure": "Vaulted Interior Chamber (cons: 3.5 m × 3 m)",
+    "Location": "Gaya District, Bihar, (24.7930° N, 84.9964° E)",
+    "Time-period": "Mauryan (c. 273 BCE)",
+    "Material-used": "Granite",
+    "Status": "Protected, visited site",
+    "Source": "ASI “Cave Monuments of Bihar,” 1972; Fergusson 1870"
+  },
+  "Hostels": {
+    "Sub-structure": "8-storey linear block, pilotis for parking",
+    "Location": "Kanpur, UP, (26.5125° N, 80.2331° E)",
+    "Time-period": "Modernist (c. 1961 CE)",
+    "Material-used": "Concrete",
+    "Status": "Active student hostels",
+    "Source": "IIT Kanpur archives; Allen 1975"
+  },
+  "Public Gallery": {
+    "Sub-structure": "Glass-curtain wall (north elevation)",
+    "Location": "Amaravati, Guntur, AP, (16.5111° N, 80.6478° E)",
+    "Time-period": "Doshi (c. 1991 CE)",
+    "Material-used": "Glass, steel",
+    "Status": "Active, in use",
+    "Source": "Doshi monograph (1992); IIA Journal 1991"
+  },
+  "Vaikunta Perumal Temple": {
+    "Sub-structure": "Sanctum (brick core, later stone overlay)",
+    "Location": "Kanchipuram Taluk, Kanchipuram, TN, (12.8307° N, 79.7047° E)",
+    "Time-period": "Pallava (c. 630 CE)",
+    "Material-used": "Brick/Granite",
+    "Status": "Protected, conserved",
+    "Source": "ASI Protected Monuments, TN; Srinivasan 1970"
+  },
+  "Amaravati Stupa I": {
+    "Sub-structure": "Stupa core (2nd century BCE)",
+    "Location": "Krishna District, AP, (16.5813° N, 80.4720° E)",
+    "Time-period": "Śātavāhana (c. 200 BCE – 200 CE)",
+    "Material-used": "Limestone",
+    "Status": "Partially excavated",
+    "Source": "ASI Prot. Monuments, AP; Krishna 1998"
+  },
+  "Meghnad Saha Auditorium": {
+    "Sub-structure": "Shell roof (double T-beam canopy)",
+    "Location": "Kanpur, UP, (26.5128° N, 80.2330° E)",
+    "Time-period": "Brutalist (c. 1962 CE)",
+    "Material-used": "Concrete",
+    "Status": "Active, occasional renovations",
+    "Source": "Mitra 1980; “Brutalist India” 2018"
+  },
+  "Bhaja Chaitya Cave 2": {
+    "Sub-structure": "Vihara cells (c. 12 cells)",
+    "Location": "Pune District, MH, (19.7675° N, 73.8972° E)",
+    "Time-period": "Śātavāhana (c. 2nd century CE)",
+    "Material-used": "Basalt",
+    "Status": "Protected, visited",
+    "Source": "ASI “Rock-Cut Monuments, Maharashtra”"
+  },
+  "Kantanagar Temple": {
+    "Sub-structure": "Khakinga type (octagonal, terracotta)",
+    "Location": "Dinajpur, (now Bangladesh), (25.8133° N, 88.6021° E)",
+    "Time-period": "Husain Shahi (c. 1549 CE)",
+    "Material-used": "Brick/Terracotta",
+    "Status": "Protected (Bangladesh)",
+    "Source": "ASI (BD) “Protected Monuments, Dinajpur”; UNESCO 1984"
+  },
+  "Lothal": {
+    "Sub-structure": "Dockyard Complex",
+    "Location": "Bhālakalo taluka, Gujarat, (22.5650° N, 72.4440° E)",
+    "Time-period": "Mature Harappan",
+    "Material-used": "Baked brick",
+    "Status": "Excavated",
+    "Source": "ASI Harappan Monuments Vol III"
+  },
+  "Central Library Block": {
+    "Sub-structure": "Deep recessed windows, concrete slab roof",
+    "Location": "Kanpur, UP, (26.5130° N, 80.2332° E)",
+    "Time-period": "Modernist/Brutalist (c. 1961 CE)",
+    "Material-used": "Concrete",
+    "Status": "Active, recently restored",
+    "Source": "IIT Kanpur archives; Mitra 1980"
+  },
+  "Airavatesvara Temple": {
+    "Sub-structure": "Sanctum (twin vimana, reclining Nandi panel)",
+    "Location": "Darasuram Taluk, Kumbakonam, TN, (11.1371° N, 79.7162° E)",
+    "Time-period": "Chola (c. 1130 CE)",
+    "Material-used": "Granite",
+    "Status": "Protected, UNESCO site",
+    "Source": "ASI “Darasuram Group,” 1985; UNESCO 1987"
+  },
+  "Kandariya Mahadeva": {
+    "Sub-structure": "Sanctum (central garbhagriha, octagonal)",
+    "Location": "Chhatarpur District, MP, (24.8550° N, 79.9182° E)",
+    "Time-period": "Chandela (c. 1025 CE)",
+    "Material-used": "Sandstone",
+    "Status": "Open to visitors, conserv.",
+    "Source": "ASI “Khajuraho Monolith,” UNESCO 1986; Meister 1999"
+  },
+  "Regal Cinema": {
+    "Sub-structure": "Vertical fins (stepped façade, neon signage)",
+    "Location": "Colaba, Mumbai, MH, (18.9235° N, 72.8372° E)",
+    "Time-period": "Art Deco (1933)",
+    "Material-used": "RCC",
+    "Status": "Protected, in use",
+    "Source": "Roy 2015; INTACH 2010"
+  }
+}

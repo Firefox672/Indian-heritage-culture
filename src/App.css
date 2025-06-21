@@ -1,0 +1,104 @@
+/* Fonts to import */
+
+@import url('https://fonts.googleapis.com/css2?family=Boldonse&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Boldonse&family=Paytone+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bayon&family=Boldonse&family=Paytone+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bayon&family=Boldonse&family=Paytone+One&family=Teachers:ital,wght@0,400..800;1,400..800&display=swap');
+
+.boldonse-regular {
+  font-family: "Boldonse", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.paytone-one-regular {
+  font-family: "Paytone One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bayon-regular {
+  font-family: "Bayon", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.teachers {
+  font-family: "Teachers", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+/* Styling the overall webpage */
+
+.app-container {
+  position: relative;
+  z-index: 0;
+}
+
+/* Fixed overlay layer that sits behind all content */
+.background-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgb(0, 0, 0); /* Or rgba(0,0,0,0.7) for semi-transparent */
+  z-index: -1;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+/* Shared blob styles */
+.background-blob {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  filter: blur(150px);
+  opacity: 0.5;
+  animation: blob-move 20s infinite ease-in-out alternate;
+}
+
+/* Blob instances with unique positions/colors */
+.blob-1 {
+  top: 0%;
+  left: 0%;
+  background: radial-gradient(circle at 30% 30%, #00bcd4, #2196f3);
+  animation-delay: 0s;
+}
+
+.blob-2 {
+  top: 10%;
+  left: 40%;
+  background: radial-gradient(circle at 30% 30%, #ff4081, #e91e63);
+  animation-delay: 5s;
+}
+
+.blob-3 {
+  top: 20%;
+  left: 80%;
+  background: radial-gradient(circle at 30% 30%, #4caf50, #8bc34a);
+  animation-delay: 20s;
+}
+
+/* Animating blob movement across the screen */
+@keyframes blob-move {
+  0% {
+    transform: translate(0px, 0px) scale(1);
+  }
+  25% {
+    transform: translate(400px, -200px) scale(1);
+  }
+  50% {
+    transform: translate(-300px, 300px) scale(1);
+  }
+  75% {
+    transform: translate(200px, 400px) scale(1);
+  }
+  100% {
+    transform: translate(-400px, -300px) scale(1);
+  }
+}

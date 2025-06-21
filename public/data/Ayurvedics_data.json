@@ -1,0 +1,2123 @@
+{
+  
+  "Plants listed in Charaka Saṃhitā": [
+  {
+    "heading": "Āmalakī",
+    "botanical": "Emblica officinalis Gaertn. (Acc.: Phyllanthus emblica L.)",
+    "uses": "Rasāyana (rejuvenator), balances Vāta and Kapha, digestive tonic."
+  },
+  {
+    "heading": "Aśvagandhā",
+    "botanical": "Withania somnifera (L.) Dunal",
+    "uses": "Adaptogen, nervine tonic, aphrodisiac, Vāta–Kapha śāmaka."
+  },
+  {
+    "heading": "Baḍarī",
+    "botanical": "Ziziphus jujuba Mill.",
+    "uses": "Nervine tonic, gastrointestinal soothing."
+  },
+  {
+    "heading": "Bhṛṅgarāja",
+    "botanical": "Eclipta alba (L.) Hassk.",
+    "uses": "Hair tonic (Keshya), liver support, skin purifier."
+  },
+  {
+    "heading": "Bṛhatī",
+    "botanical": "Solanum indicum L. (sometimes Solanum xanthocarpum)",
+    "uses": "Expectorant, respiratory tonic, Kapha śāmaka."
+  },
+  {
+    "heading": "Citrā",
+    "botanical": "Plumbago zeylanica L.",
+    "uses": "Skin disorders, antimicrobial, wound healing."
+  },
+  {
+    "heading": "Dāruharidrā",
+    "botanical": "Berberis aristata DC. (Berberidaceae)",
+    "uses": "Pitta–Kapha śāmaka, liver support, antipyretic."
+  },
+  {
+    "heading": "Dhātākyā",
+    "botanical": "Terminalia bellerica Roxb.",
+    "uses": "Digestive tonic, respiratory support, mild laxative."
+  },
+  {
+    "heading": "Dhāvatrī",
+    "botanical": "Woodfordia fruticosa Kurz (Lythraceae)",
+    "uses": "Fermenting agent in arisṭas/āsavas, wound-healing tonic."
+  },
+  {
+    "heading": "Drāvyānīka",
+    "botanical": "Clerodendrum phlomidis L. (Lamiaceae)",
+    "uses": "Kapha śāmaka, digestive support, anti-inflammatory."
+  },
+  {
+    "heading": "Ekaśarmakhilā",
+    "botanical": "Trianthema portulacastrum L. (Aizoaceae)",
+    "uses": "Anthelmintic, diuretic, general detoxifier."
+  },
+  {
+    "heading": "Gudūcī",
+    "botanical": "Tinospora cordifolia (Miers) Hook.f. & Thomson (Menispermaceae)",
+    "uses": "Rasāyana (immunity booster), antipyretic, diuretic."
+  },
+  {
+    "heading": "Haridrā",
+    "botanical": "Curcuma longa L. (Zingiberaceae)",
+    "uses": "Antiinflammatory, digestive aid, blood purifier."
+  },
+  {
+    "heading": "Kaṇṭakāri",
+    "botanical": "Solanum xanthocarpum Schrad. & Wendl.",
+    "uses": "Respiratory stimulant, Kapha śāmaka."
+  },
+  {
+    "heading": "Kṣīrī",
+    "botanical": "Sesamum indicum L. (“Tila” – oil seed used for unguents and massage)",
+    "uses": "Anuṣṭhāna (massage), Vāta śāmaka, nourishing."
+  },
+  {
+    "heading": "Kumārī",
+    "botanical": "Aloe vera (L.) Burm.f.",
+    "uses": "Cooling, wound healing, mild laxative."
+  },
+  {
+    "heading": "Kuṭaja",
+    "botanical": "Holarrhena pubescens Wall. ex G.Don",
+    "uses": "Antidiarrheal, anthelmintic, digestive support."
+  },
+  {
+    "heading": "Lodhra",
+    "botanical": "Symplocos racemosa Roxb.",
+    "uses": "Uterine tonic, anti-inflammatory, wound healing."
+  },
+  {
+    "heading": "Musta",
+    "botanical": "Cyperus rotundus L.",
+    "uses": "Digestive carminative, antispasmodic, diuretic."
+  },
+  {
+    "heading": "Pippalī",
+    "botanical": "Piper longum L. (Piperaceae)",
+    "uses": "Digestive tonic, respiratory stimulant, Kapha–Vāta śāmaka."
+  }
+],
+
+
+  "Plants added in Sushruta Saṃhitā": [
+    {
+      "heading": "Abhaya",
+      "botanical": "Terminalia chebula Retz.",
+      "uses": "Mild laxative, digestive tonic, balances Kapha and Vāta."
+    },
+    {
+      "heading": "Abjākī",
+      "botanical": "Aegle marmelos (L.) Corrêa",
+      "uses": "Astringent, antidiarrheal, digestive."
+    },
+    {
+      "heading": "Abhiru",
+      "botanical": "Citrus limon (L.) Osbeck",
+      "uses": "Carminative, digestive stimulant."
+    },
+    {
+      "heading": "Agnimantha",
+      "botanical": "Clerodendrum phlomidis L.",
+      "uses": "Digestive support, Kapha śāmaka."
+    },
+    {
+      "heading": "Ajagandhā",
+      "botanical": "Solanum xanthocarpum Schrad. & Wendl.",
+      "uses": "Expectorant, respiratory tonic."
+    },
+    {
+      "heading": "Ajamoda",
+      "botanical": "Carum roxburghianum Benth.",
+      "uses": "Carminative, antispasmodic."
+    },
+    {
+      "heading": "Amalaki",
+      "botanical": "Emblica officinalis Gaertn.",
+      "uses": "Rasāyana, digestive tonic, antioxidant."
+    },
+    {
+      "heading": "Amruta",
+      "botanical": "Tinospora cordifolia (Miers) Hook.f. & Thomson",
+      "uses": "Immunity booster, antipyretic."
+    },
+    {
+      "heading": "Apāmārga",
+      "botanical": "Achyranthes aspera L.",
+      "uses": "Anthelmintic, mild laxative."
+    },
+    {
+      "heading": "Arjuna",
+      "botanical": "Terminalia arjuna (Roxb.) Wight & Arn.",
+      "uses": "Cardiac tonic, hemostatic."
+    },
+    {
+      "heading": "Ativīṣha",
+      "botanical": "Aconitum heterophyllum Wall. ex Royle",
+      "uses": "Antipyretic, digestive stimulant."
+    },
+    {
+      "heading": "Baḍara",
+      "botanical": "Ziziphus jujuba Mill.",
+      "uses": "Nervine tonic, digestive support."
+    },
+    {
+      "heading": "Bakula",
+      "botanical": "Mimusops elengi L.",
+      "uses": "Astringent, dental tonic."
+    },
+    {
+      "heading": "Bhallātaka",
+      "botanical": "Semecarpus anacardium L.f.",
+      "uses": "Rejuvenative, Kapha–Vāta śāmaka."
+    },
+    {
+      "heading": "Bilva",
+      "botanical": "Aegle marmelos (L.) Corrêa",
+      "uses": "Digestive, astringent."
+    },
+    {
+      "heading": "Dhatūrakā",
+      "botanical": "Datura metel L.",
+      "uses": "Analgesic, antispasmodic (external use)."
+    },
+    {
+      "heading": "Gokṣura",
+      "botanical": "Tribulus terrestris L.",
+      "uses": "Diuretic, lithotriptic."
+    },
+    {
+      "heading": "Harītakī",
+      "botanical": "Terminalia chebula Retz.",
+      "uses": "Mild laxative, digestive rasāyana."
+    },
+    {
+      "heading": "Indrāṇī",
+      "botanical": "Citrus medica L. var. Sarcodactylis (Monk.) Swingle",
+      "uses": "Carminative, appetizer."
+    },
+    {
+      "heading": "Jiraka",
+      "botanical": "Cuminum cyminum L.",
+      "uses": "Carminative, digestive stimulant."
+    }
+  ],
+
+
+  "Plants in Aṣṭāṅga Hṛdaya": [
+    {
+      "heading": "Ambārī",
+      "botanical": "Cinnamomum tamala (Buch.-Ham.) T.Nees & Eberm.",
+      "uses": "Carminative, digestive stimulant."
+    },
+    {
+      "heading": "Amr̥tā",
+      "botanical": "Tinospora cordifolia (Miers) Hook.f. & Thomson",
+      "uses": "Rasāyana, antipyretic."
+    },
+    {
+      "heading": "Andajā",
+      "botanical": "Cyperus scariosus R.Br.",
+      "uses": "Diuretic, carminative."
+    },
+    {
+      "heading": "Arkapuṣpa",
+      "botanical": "Calotropis procera (Aiton) Dryand.",
+      "uses": "Purgative, anthelmintic."
+    },
+    {
+      "heading": "Āśvagandhā",
+      "botanical": "Withania somnifera (L.) Dunal",
+      "uses": "Nervine tonic, adaptogen."
+    },
+    {
+      "heading": "Ativīṣa",
+      "botanical": "Aconitum heterophyllum Wall. ex Royle",
+      "uses": "Antipyretic, digestive tonic."
+    },
+    {
+      "heading": "Bhāskara",
+      "botanical": "Piper longum L.",
+      "uses": "Digestive stimulant, carminative."
+    },
+    {
+      "heading": "Bilvā",
+      "botanical": "Aegle marmelos (L.) Corrêa",
+      "uses": "Digestive, astringent."
+    },
+    {
+      "heading": "Citrā",
+      "botanical": "Plumbago zeylanica L.",
+      "uses": "Wound healing, antimicrobial."
+    },
+    {
+      "heading": "Dāruharidrā",
+      "botanical": "Berberis aristata DC.",
+      "uses": "Hepatoprotective, antipyretic."
+    },
+    {
+      "heading": "Gudūcī",
+      "botanical": "Tinospora cordifolia (Miers) Hook.f. & Thomson",
+      "uses": "Immunity booster, diuretic."
+    },
+    {
+      "heading": "Haridrā",
+      "botanical": "Curcuma longa L.",
+      "uses": "Anti-inflammatory, antioxidant."
+    },
+    {
+      "heading": "Kṣīrī",
+      "botanical": "Sesamum indicum L.",
+      "uses": "Anuṣṭhāna (massage oil), nourishing."
+    },
+    {
+      "heading": "Kumārī",
+      "botanical": "Aloe vera (L.) Burm.f.",
+      "uses": "Cooling, wound healing."
+    },
+    {
+      "heading": "Kuṭaja",
+      "botanical": "Holarrhena pubescens Wall. ex G.Don",
+      "uses": "Antidiarrheal, anthelmintic."
+    },
+    {
+      "heading": "Lodhra",
+      "botanical": "Symplocos racemosa Roxb.",
+      "uses": "Uterine tonic, astringent."
+    },
+    {
+      "heading": "Musta",
+      "botanical": "Cyperus rotundus L.",
+      "uses": "Carminative, antispasmodic."
+    },
+    {
+      "heading": "Pippalī",
+      "botanical": "Piper longum L.",
+      "uses": "Digestive stimulant, respiratory tonic."
+    },
+    {
+      "heading": "Śātāvarī",
+      "botanical": "Asparagus racemosus Willd.",
+      "uses": "Reproductive tonic, galactagogue."
+    },
+    {
+      "heading": "Vaca",
+      "botanical": "Acorus calamus L.",
+      "uses": "Nervine tonic, respiratory stimulant."
+    }
+  ],
+
+
+  "Bhāvaprakāśa Nighaṇṭu additions": [
+    {
+      "heading": "Anantamūla",
+      "botanical": "Hemidesmus indicus (L.) R.Br. ex Schult.",
+      "uses": "Blood purifier, diuretic."
+    },
+    {
+      "heading": "Aśvakarṇa",
+      "botanical": "Cassia absus L.",
+      "uses": "Anthelmintic, anti-inflammatory."
+    },
+    {
+      "heading": "Arka",
+      "botanical": "Calotropis procera (Aiton) Dryand.",
+      "uses": "Purgative, respiratory stimulant."
+    },
+    {
+      "heading": "Bṛhatī",
+      "botanical": "Solanum indicum L.",
+      "uses": "Expectorant, respiratory tonic."
+    },
+    {
+      "heading": "Candana",
+      "botanical": "Santalum album L.",
+      "uses": "Cooling, diuretic."
+    },
+    {
+      "heading": "Dhātākyā",
+      "botanical": "Terminalia bellerica Roxb.",
+      "uses": "Digestive, mild laxative."
+    },
+    {
+      "heading": "Ḍāmarūka",
+      "botanical": "Hygrophila spinosa T.Anderson",
+      "uses": "Diuretic, lithotriptic."
+    },
+    {
+      "heading": "Gomūtra",
+      "botanical": "Bos taurus domesticus (cow urine)",
+      "uses": "Antiseptic, diuretic."
+    },
+    {
+      "heading": "Juṣṭicā",
+      "botanical": "Jatropha curcas L.",
+      "uses": "Purgative, vulnerary."
+    },
+    {
+      "heading": "Kāñcanār",
+      "botanical": "Bauhinia variegata L.",
+      "uses": "Antidiabetic, astringent."
+    },
+    {
+      "heading": "Katurohini",
+      "botanical": "Picrorhiza kurroa Royle ex Benth.",
+      "uses": "Hepatoprotective."
+    },
+    {
+      "heading": "Kṣīrī",
+      "botanical": "Sesamum indicum L.",
+      "uses": "Oil for massage, nourishing."
+    },
+    {
+      "heading": "Majja",
+      "botanical": "Bones (Anatomical tissue)",
+      "uses": "Booster for bone marrow, tonic."
+    },
+    {
+      "heading": "Nirguṇḍī",
+      "botanical": "Vitex negundo L.",
+      "uses": "Anti-inflammatory, analgesic."
+    },
+    {
+      "heading": "Pāṇīkara",
+      "botanical": "Fumaria indica (Hausskn.) Pugsley",
+      "uses": "Cholagogue, mild laxative."
+    },
+    {
+      "heading": "Rasnā",
+      "botanical": "Pluchea lanceolata (DC.) C.B.Clarke",
+      "uses": "Analgesic, anti-inflammatory."
+    },
+    {
+      "heading": "Śigru",
+      "botanical": "Moringa oleifera Lam.",
+      "uses": "Nutrient-rich, anti-inflammatory."
+    },
+    {
+      "heading": "Śyāmā",
+      "botanical": "Clerodendrum serratum (L.) Moon",
+      "uses": "Respiratory tonic."
+    },
+    {
+      "heading": "Tvak",
+      "botanical": "Cinnamomum verum J.Presl.",
+      "uses": "Carminative, circulatory stimulant."
+    },
+    {
+      "heading": "Yaṣṭimadhu",
+      "botanical": "Glycyrrhiza glabra L.",
+      "uses": "Demulcent, expectorant."
+    }
+  ],
+
+
+  "Regional or tribal additions": [
+    {
+      "heading": "Bael",
+      "botanical": "Aegle marmelos (L.) Corrêa",
+      "uses": "Antidiarrheal, astringent."
+    },
+    {
+      "heading": "Bamboo manna",
+      "botanical": "Bambusa arundinacea Willd.",
+      "uses": "Mild laxative, demulcent."
+    },
+    {
+      "heading": "Bhang",
+      "botanical": "Cannabis sativa L.",
+      "uses": "Appetizer, analgesic."
+    },
+    {
+      "heading": "Chironji",
+      "botanical": "Buchanania lanzan Spreng.",
+      "uses": "Nervine tonic, cardiac tonic."
+    },
+    {
+      "heading": "Gond katira",
+      "botanical": "Brosimum gaudichaudii Trecul",
+      "uses": "Demulcent, nutritive."
+    },
+    {
+      "heading": "Harde",
+      "botanical": "Terminalia chebula Retz.",
+      "uses": "Digestive, laxative."
+    },
+    {
+      "heading": "Kakar",
+      "botanical": "Derris scandens (Roxb.) Benth.",
+      "uses": "Anti-inflammatory, analgesic."
+    },
+    {
+      "heading": "Mahua",
+      "botanical": "Madhuca indica J.F.Gmel.",
+      "uses": "Nutritive, emollient."
+    },
+    {
+      "heading": "Mahulphala",
+      "botanical": "Jatropha curcas L.",
+      "uses": "Purgative, vulnerary."
+    },
+    {
+      "heading": "Mandukaparni",
+      "botanical": "Centella asiatica (L.) Urb.",
+      "uses": "Cognitive tonic."
+    },
+    {
+      "heading": "Mahāmakṣika",
+      "botanical": "Operculina turpethum (L.) Silva Manso",
+      "uses": "Purgative."
+    },
+    {
+      "heading": "Nattu neer",
+      "botanical": "Nerium oleander L. (toxic; external use)",
+      "uses": "Topical antiseptic."
+    },
+    {
+      "heading": "Phalsa",
+      "botanical": "Grewia asiatica L.",
+      "uses": "Cooling, astringent."
+    },
+    {
+      "heading": "Saptaparna",
+      "botanical": "Alstonia scholaris (L.) R.Br.",
+      "uses": "Antipyretic."
+    },
+    {
+      "heading": "Ṣaḍapūra",
+      "botanical": "Calotropis gigantea (L.) Dryand.",
+      "uses": "Purgative, anthelmintic."
+    },
+    {
+      "heading": "Sāre",
+      "botanical": "Mimosa pudica L.",
+      "uses": "Demulcent, diuretic."
+    },
+    {
+      "heading": "Sātpattī",
+      "botanical": "Trichosanthes dioica Roxb.",
+      "uses": "Laxative, diuretic."
+    },
+    {
+      "heading": "Sirasulī",
+      "botanical": "Hygrophila auriculata (Schum.) Heine",
+      "uses": "Diuretic."
+    },
+    {
+      "heading": "Tulsi",
+      "botanical": "Ocimum tenuiflorum L.",
+      "uses": "Respiratory tonic, adaptogen."
+    },
+    {
+      "heading": "Vakk",
+      "botanical": "Moringa oleifera Lam.",
+      "uses": "Nutrient-rich, lactagogue."
+    }
+  ],
+  
+  
+  "Modern pharmacopoeial list": [
+    {
+      "heading": "Ashvagandha",
+      "botanical": "Withania somnifera (L.) Dunal",
+      "uses": "Adaptogen, anxiolytic."
+    },
+    {
+      "heading": "Brahmi",
+      "botanical": "Bacopa monnieri (L.) Wettst.",
+      "uses": "Cognitive enhancer."
+    },
+    {
+      "heading": "Shatavari",
+      "botanical": "Asparagus racemosus Willd.",
+      "uses": "Female reproductive tonic."
+    },
+    {
+      "heading": "Giloy",
+      "botanical": "Tinospora cordifolia (Miers) Hook.f. & Thomson",
+      "uses": "Immunity booster."
+    },
+    {
+      "heading": "Turmeric",
+      "botanical": "Curcuma longa L.",
+      "uses": "Anti-inflammatory."
+    },
+    {
+      "heading": "Neem",
+      "botanical": "Azadirachta indica A.Juss.",
+      "uses": "Antiparasitic, antibacterial."
+    },
+    {
+      "heading": "Tulsi",
+      "botanical": "Ocimum tenuiflorum L.",
+      "uses": "Stress reliever."
+    },
+    {
+      "heading": "Arjuna",
+      "botanical": "Terminalia arjuna (Roxb.) Wight & Arn.",
+      "uses": "Cardioprotective."
+    },
+    {
+      "heading": "Haritaki",
+      "botanical": "Terminalia chebula Retz.",
+      "uses": "Digestive tonic."
+    },
+    {
+      "heading": "Amla",
+      "botanical": "Emblica officinalis Gaertn.",
+      "uses": "Antioxidant."
+    },
+    {
+      "heading": "Gotu Kola",
+      "botanical": "Centella asiatica (L.) Urb.",
+      "uses": "Wound healing."
+    },
+    {
+      "heading": "Guggulu",
+      "botanical": "Commiphora mukul (Hook. ex Stocks) Engl.",
+      "uses": "Lipid lowering."
+    },
+    {
+      "heading": "Manjistha",
+      "botanical": "Rubia cordifolia L.",
+      "uses": "Blood purifier."
+    },
+    {
+      "heading": "Punarnava",
+      "botanical": "Boerhavia diffusa L.",
+      "uses": "Diuretic."
+    },
+    {
+      "heading": "Musta",
+      "botanical": "Cyperus rotundus L.",
+      "uses": "Carminative."
+    },
+    {
+      "heading": "Licorice",
+      "botanical": "Glycyrrhiza glabra L.",
+      "uses": "Demulcent."
+    },
+    {
+      "heading": "Ashoka",
+      "botanical": "Saraca asoca (Roxb.) Willd.",
+      "uses": "Uterine tonic."
+    },
+    {
+      "heading": "Amalaki",
+      "botanical": "Emblica officinalis Gaertn.",
+      "uses": "Rasāyana."
+    },
+    {
+      "heading": "Bibhitaki",
+      "botanical": "Terminalia bellirica (Gaertn.) Roxb.",
+      "uses": "Mild laxative."
+    },
+    {
+      "heading": "Triphala",
+      "botanical": "Combination of Amla, Haritaki & Bibhitaki",
+      "uses": "Digestive regulator."
+    }
+  ],
+
+
+  "Mahā Khaṇḍas": [
+  {
+    "heading": "Aṣṭāṅga Ghṛta (Sāmānya)",
+    "botanical": "Multi-herbal formulation (24 herbs)",
+    "uses": "General restorative; medhya (nervine) tonic supporting intellect and memory."},
+  {
+    "heading": "Aṣṭāṅga Ghṛta (Kaṣāyavīḍha)",
+    "botanical": "Multi-herbal formulation (decoction-based variant of Aṣṭāṅga Ghṛta)",
+    "uses": "Wound-healing ghṛta; balances Kapha and supports tissue regeneration."},
+  {
+    "heading": "Aṣṭāṅga Ghṛta (Bhāvaprakāśa)",
+    "botanical": "Multi-herbal formulation (regional Bhāvaprakāśa chemotype)",
+    "uses": "Tailored for Maharashtra plant chemotypes; general restoration and nutritive tonic."},
+  {
+    "heading": "Brāhatī Ghṛta",
+    "botanical": "Multi-herbal formulation (>18 herbs)",
+    "uses": "Deep nutritive ghṛta; supports strength, digestion, and Vāta–Kapha balance."},
+  {
+    "heading": "Śankhavāti Ghṛta",
+    "botanical": "Multi-herbal formulation (6 herbs)",
+    "uses": "Heart tonic; Kapha-balancing; supports cardiovascular health."},
+  {
+    "heading": "Brāhmyādi Ghṛta",
+    "botanical": "Multi-herbal formulation (Brahmī and adjuncts)",
+    "uses": "Nervine tonic; cognitive enhancer; medhya rasāyana."},
+  {
+    "heading": "Dārvā Tiktarāja Ghṛta",
+    "botanical": "Multi-herbal formulation (Bitter detoxifiers)",
+    "uses": "Bitter pioneer detox ghṛta; supports liver, skin purification."},
+  {
+    "heading": "Ghr̥takṣīrapak",
+    "botanical": "Multi-herbal formulation (milk-based)",
+    "uses": "Bone-strengthening ghṛta; nourishes dhātus and supports skeletal health."},
+  {
+    "heading": "Kalyāṇaka Ghṛta",
+    "botanical": "Multi-herbal formulation (nectar of goodness)",
+    "uses": "General tonic and complexion enhancer; balances all three doṣas."},
+  {
+    "heading": "Mahārasāyana Ghṛta",
+    "botanical": "Multi-herbal formulation (>30 herbs)",
+    "uses": "Longevity-promoting rasāyana; rejuvenative, boosts ojas."},
+  {
+    "heading": "Suśrutī Ghṛta",
+    "botanical": "Multi-herbal formulation (post-surgical)",
+    "uses": "Post-surgical restorative ghṛta; supports wound healing and tissue repair."},
+  {
+    "heading": "Aśvagandhā Ghṛta",
+    "botanical": "Single-herb formulation (Withania somnifera)",
+    "uses": "Adaptogenic ghṛta; nervine tonic, supports stress resilience."},
+  {
+    "heading": "Haridrā Ghṛta",
+    "botanical": "Single-herb formulation (Curcuma longa)",
+    "uses": "Anti-inflammatory turmeric ghṛta; supports digestion and purifies blood."},
+  {
+    "heading": "Tulasi Ghṛta",
+    "botanical": "Single-herb formulation (Ocimum tenuiflorum)",
+    "uses": "Respiratory stimulant ghṛta; balances Kapha and supports immunity."},
+  {
+    "heading": "Pippalī Ghṛta",
+    "botanical": "Single-herb formulation (Piper longum)",
+    "uses": "Digestive and respiratory tonic; carminative and expectorant."},
+  {
+    "heading": "Gudūcī Ghṛta",
+    "botanical": "Single-herb formulation (Tinospora cordifolia)",
+    "uses": "Immunity-supportive ghṛta; rasāyana and antipyretic."},
+  {
+    "heading": "Kaṇṭakāri Ghṛta",
+    "botanical": "Single-herb formulation (Solanum xanthocarpum)",
+    "uses": "Pulmonary tonic ghṛta; supports bronchial clearance."},
+  {
+    "heading": "Guggulu Ghṛta",
+    "botanical": "Single-herb formulation (Commiphora mukul)",
+    "uses": "Lipid-lowering fat infusion; supports healthy cholesterol levels."},
+  {
+    "heading": "Mahābhārata Ghṛta",
+    "botanical": "Multi-herbal formulation (20 herbs)",
+    "uses": "Epic mixture for overall strength and vitality."},
+  {
+    "heading": "Vīryaśālā Ghṛta",
+    "botanical": "Multi-herbal formulation (stamina blend)",
+    "uses": "Stamina and virility-enhancing ghṛta; supports ojas and reproductive health."}
+],
+
+"Rasāyanas, Rejuvenatives & Tonics": [
+  {
+    "heading": "Chyāvanaprāśa",
+    "botanical": "Multi-herbal formulation (40+ herbs)",
+    "uses": "Supports immune function; promotes strength, energy, and vitality; rejuvenates tissues; digestive and respiratory tonic."},
+  {
+    "heading": "Triphala Cūrṇa",
+    "botanical": "Emblica officinalis, Terminalia chebula, Terminalia bellirica",
+    "uses": "Gentle bowel tonic supporting regularity; antioxidant; modulates gut microbiome; mild laxative."},
+  {
+    "heading": "Triphala Avaleha",
+    "botanical": "Emblica officinalis, Terminalia chebula, Terminalia bellirica",
+    "uses": "Fruit-paste formulation for digestion; supports regular elimination; antioxidant and mild anti-inflammatory."},
+  {
+    "heading": "Triphala Ghṛta",
+    "botanical": "Multi-herbal ghṛta (Triphala-based)",
+    "uses": "Digestive tonic that enhances nutrient absorption; rejuvenative rasāyana for digestive fire."},
+  {
+    "heading": "Triphala Guggulu",
+    "botanical": "Triphala + Commiphora mukul",
+    "uses": "Lipid-lowering formulation; supports healthy cholesterol levels; digestive support and anti-inflammatory."},
+  {
+    "heading": "Praśāṇa",
+    "botanical": "Withania somnifera & Asparagus racemosus",
+    "uses": "Pediatric tonic for growth and development; boosts immunity; cognitive and metabolic support."},
+  {
+    "heading": "Śilājit Rasāyana",
+    "botanical": "Asphaltum (Shilajit)",
+    "uses": "Rejuvenative mineral tonic; anti-aging; enhances vitality, cognitive function, and fertility."},
+  {
+    "heading": "Suśrutī Ghṛta",
+    "botanical": "Multi-herbal ghṛta",
+    "uses": "Restorative ghṛta for malnutrition and general debility; supports tissue repair."},
+  {
+    "heading": "Rasānanda",
+    "botanical": "Multi-herbal iron formulation",
+    "uses": "Hemoglobin-building tonic; supportive in anemia and energy production."},
+  {
+    "heading": "Nakṣatra Rasāyana",
+    "botanical": "Multi-herbal formulation tied to lunar cycle herbs",
+    "uses": "Rejuvenative tonic for circadian balance; supports sleep and ojas."},
+  {
+    "heading": "Mahāmanjisṭhā Rasāyana",
+    "botanical": "Rubia cordifolia",
+    "uses": "Skin-clearing tonic; blood purifier and anti-inflammatory."},
+  {
+    "heading": "Anvārā Rasāyana",
+    "botanical": "Emblica officinalis & Pigments",
+    "uses": "Urinary tract rejuvenator; diuretic and cooling rasāyana."},
+  {
+    "heading": "Drākṣa Rasāyana",
+    "botanical": "Vitis vinifera (grape)",
+    "uses": "Cardiac tonic; antioxidant; promotes healthy blood and digestion."},
+  {
+    "heading": "Śatavari Avaleha",
+    "botanical": "Asparagus racemosus",
+    "uses": "Female reproductive tonic; galactagogue; cooling rasāyana."},
+  {
+    "heading": "Bhrāṃgī Rasāyana",
+    "botanical": "Clerodendrum serratum",
+    "uses": "Respiratory rejuvenative; supports healthy bronchial function."},
+  {
+    "heading": "Medohara Rasāyana",
+    "botanical": "Multi-herbal lipid-balancing formulation",
+    "uses": "Lipid-normalizing formula; supports healthy metabolism and body weight."},
+  {
+    "heading": "Vajra Rasāyana",
+    "botanical": "Multi-herbal fortifier",
+    "uses": "Strength and endurance booster; supports musculoskeletal health."},
+  {
+    "heading": "Gajapīṭha Rasāyana",
+    "botanical": "Sesamum indicum & Multi-herbs",
+    "uses": "Bone and joint reconstructive tonic; nourishes dhātus."},
+  {
+    "heading": "Kaumārabhṛtya Rasāyana",
+    "botanical": "Multi-herbal pediatric tonic",
+    "uses": "Pediatric growth and development tonic; supports immunity and metabolism."},
+  {
+    "heading": "Āyurveda Rasāyana",
+    "botanical": "Pan-Ayurvedic multi-herbal blend",
+    "uses": "Comprehensive longevity blend; balances all doṣas and boosts ojas."}
+],
+
+
+"Churnas (Powders)": [
+  {
+    "heading": "Bṛhatī Cūrṇa",
+    "botanical": "Solanum indicum L.",
+    "uses": "Expectorant and respiratory tonic; Kapha śāmaka; supports bronchial clearance." 
+  },
+  {
+    "heading": "Bhaikṣajyojyapūṣaṇī Cūrṇa",
+    "botanical": "Multi-herbal formulation (12 herbs)",
+    "uses": "Respiratory support; anti-inflammatory; bronchodilator effects." 
+  },
+  {
+    "heading": "Brahmī Cūrṇa",
+    "botanical": "Bacopa monnieri (L.) Wettst.",
+    "uses": "Cognitive enhancer; improves memory and concentration; nervine tonic." 
+  },
+  {
+    "heading": "Dārdurī Cūrṇa",
+    "botanical": "Tribulus terrestris L. & Operculina turpethum (L.) Silva Manso",
+    "uses": "Supports urinary tract health; lithotriptic; diuretic." 
+  },
+  {
+    "heading": "Daśamūla Cūrṇa",
+    "botanical": "Ten root formulation (e.g., Bilva, Agnimantha, Patala, Gambhari, Musta, Kantakari, Gokshura, Shalaparni, Prishtapada, Brihati)",
+    "uses": "Vāta pacifying; joint and nerve support; anti-inflammatory." 
+  },
+  {
+    "heading": "Śālaparṇī Cūrṇa",
+    "botanical": "Desmodium gangeticum (L.) DC.",
+    "uses": "Anti-inflammatory; analgesic; hepato-protective." 
+  },
+  {
+    "heading": "Sitopaladi Cūrṇa",
+    "botanical": "Sugar, bamboo manna (Bambusa arundinacea), long pepper (Piper longum), cinnamon (Cinnamomum verum), dry ginger (Zingiber officinale)",
+    "uses": "Pediatric cough and cold remedy; expectorant; antipyretic." 
+  },
+  {
+    "heading": "Lasunādi Cūrṇa",
+    "botanical": "Allium sativum L. & Zingiber officinale Roscoe",
+    "uses": "Metabolic stimulant; circulatory tonic; antioxidant." 
+  },
+  {
+    "heading": "Āmalakī Cūrṇa",
+    "botanical": "Emblica officinalis Gaertn.",
+    "uses": "Antioxidant; digestive tonic; rasāyana." 
+  },
+  {
+    "heading": "Chāntārikā Cūrṇa",
+    "botanical": "Tribulus terrestris L.",
+    "uses": "Urinary tonicity; lithotriptic; diuretic." 
+  },
+  {
+    "heading": "Trikatu Cūrṇa",
+    "botanical": "Piper nigrum L., Piper longum L., Zingiber officinale Roscoe",
+    "uses": "Carminative; digestive stimulant; metabolism enhancer." 
+  },
+  {
+    "heading": "Śatāvarī Cūrṇa",
+    "botanical": "Asparagus racemosus Willd.",
+    "uses": "Female reproductive tonic; galactagogue; nervine tonic." 
+  },
+  {
+    "heading": "Gokṣūrādi Cūrṇa",
+    "botanical": "Tribulus terrestris L. & Boerhavia diffusa L.",
+    "uses": "Kidney stone management; diuretic; anti-inflammatory." 
+  },
+  {
+    "heading": "Kāśmīrapaṭṭa Cūrṇa",
+    "botanical": "Kaempferia galanga L.",
+    "uses": "Skin pigmentation care; anti-inflammatory; antioxidant." 
+  },
+  {
+    "heading": "Yogaratnā Cūrṇa",
+    "botanical": "Multi-mineral adaptogen (e.g., pearl, coral, jatamansi)",
+    "uses": "Adaptogenic; nervous system support; stress resilience." 
+  },
+  {
+    "heading": "Medohara Cūrṇa",
+    "botanical": "Multi-herbal lipid balancing (Triphala, Musta, Daruharidra, Patha)",
+    "uses": "Supports healthy lipid metabolism; weight management." 
+  },
+  {
+    "heading": "Hr̥dya Cūrṇa",
+    "botanical": "Multi-herbal cardio-support blend (e.g., Arjuna, Jatamansi, Brahmi, Pipal)",
+    "uses": "Cardiac tonic; supports healthy circulation and heart function." 
+  },
+  {
+    "heading": "Rāsnādi Cūrṇa",
+    "botanical": "Ginger (Zingiber officinale), pepper (Piper nigrum), cardamom (Elettaria cardamomum)",
+    "uses": "Digestive stimulant; carminative; antacid." 
+  },
+  {
+    "heading": "Vicārya Cūrṇa",
+    "botanical": "Multi-herbal hematinic (e.g., Punarnava, Manjistha, Ashoka)",
+    "uses": "Supports healthy blood production; liver support." 
+  },
+  {
+    "heading": "Mahākāśakī Cūrṇa",
+    "botanical": "Tinospora cordifolia & Swertia chirata",
+    "uses": "Immune support; anti-inflammatory; detoxifier." 
+  }
+],
+
+
+"Ghṛtas (Clarified Butter Preparations)": [
+  {
+    "heading": "Aṣṭāṅga Ghṛta",
+    "botanical": "Multi-herbal formulation (24 herbs)",
+    "uses": "Neuroprotective medhya rasāyana; supports memory, intellect, and CNS health; antioxidant and nervine tonic."},
+  {
+    "heading": "Aśvagandhā Ghṛta",
+    "botanical": "Withania somnifera (L.) Dunal",
+    "uses": "Adaptogenic ghṛta; enhances strength, immunity, and stress resilience; anti-inflammatory and aphrodisiac."},
+  {
+    "heading": "Haridrā Ghṛta",
+    "botanical": "Curcuma longa L.",
+    "uses": "Hepatoprotective and anti-inflammatory ghṛta; supports jaundice management, liver health, and Pitta balance."},
+  {
+    "heading": "Tulasi Ghṛta",
+    "botanical": "Ocimum tenuiflorum L.",
+    "uses": "Respiratory stimulant and adaptogenic ghṛta; balances Kapha, supports lung health, immunity, and mental clarity."},
+  {
+    "heading": "Pippalī Ghṛta",
+    "botanical": "Piper longum L.",
+    "uses": "Carminative and fever-clearing ghṛta; used in snehakarma and for headache, anorexia, low digestive power."},
+  {
+    "heading": "Gudūcī Ghṛta",
+    "botanical": "Tinospora cordifolia (Miers) Hook.f. & Thomson",
+    "uses": "Immunity-boosting ghṛta; antipyretic, hepatoprotective, antidiabetic, and respiratory support."},
+  {
+    "heading": "Kaṇṭakāri Ghṛta",
+    "botanical": "Solanum xanthocarpum Schrad. & Wendl.",
+    "uses": "Pulmonary tonic ghṛta; expectorant, bronchodilator, and Kapha-balancing."},
+  {
+    "heading": "Guggulu Ghṛta",
+    "botanical": "Commiphora mukul (Hook. ex Stocks) Engl.",
+    "uses": "Lipid-lowering fat infusion; supports healthy cholesterol, joint comfort, and metabolic balance."},
+  {
+    "heading": "Brahmī Ghṛta",
+    "botanical": "Bacopa monnieri (L.) Wettst.",
+    "uses": "Medhya ghṛta; cognitive tonic enhancing memory, learning, and nervous system nourishment."},
+  {
+    "heading": "Triphala Ghṛta",
+    "botanical": "Multi-herbal ghṛta (Triphala-based)",
+    "uses": "Digestive tonic; enhances nutrient absorption; rejuvenative for digestive fire."},
+  {
+    "heading": "Kumārī Ghṛta",
+    "botanical": "Aloe vera (L.) Burm.f.",
+    "uses": "Cooling demulcent ghṛta; supports skin healing, digestion, and Vata pacification." 
+  },
+  {
+    "heading": "Kuṭaja Ghṛta",
+    "botanical": "Holarrhena pubescens Wall. ex G.Don",
+    "uses": "Antidiarrheal ghṛta; astringent and digestive support." 
+  },
+  {
+    "heading": "Lodhra Ghṛta",
+    "botanical": "Symplocos racemosa Roxb.",
+    "uses": "Skin-toning ghṛta; uterine tonic and astringent for wound healing." 
+  },
+  {
+    "heading": "Musta Ghṛta",
+    "botanical": "Cyperus rotundus L.",
+    "uses": "Carminative ghṛta; antispasmodic, diuretic, and digestive stimulant." 
+  },
+  {
+    "heading": "Bala Ghṛta",
+    "botanical": "Sida cordifolia L.",
+    "uses": "Vata-calming tonic; analgesic and rejuvenative for musculoskeletal health." 
+  },
+  {
+    "heading": "Shankhapushpi Ghṛta",
+    "botanical": "Convolvulus pluricaulis Choisy",
+    "uses": "Memory-enhancing ghṛta; nervine tonic and medhya rasāyana."},
+  {
+    "heading": "Śatāvarī Ghṛta",
+    "botanical": "Asparagus racemosus Willd.",
+    "uses": "Female reproductive ghṛta; galactagogue and uterine tonic." 
+  },
+  {
+    "heading": "Kutki Ghṛta",
+    "botanical": "Picrorhiza kurroa Royle ex Benth.",
+    "uses": "Hepatoprotective ghṛta; supports liver detoxification and Pitta balance." 
+  },
+  {
+    "heading": "Chitraka Ghṛta",
+    "botanical": "Plumbago zeylanica L.",
+    "uses": "Pitta-balancing ghṛta; digestive stimulant and skin purifier." 
+  },
+  {
+    "heading": "Mahāśankha Ghṛta",
+    "botanical": "Multi-herbal formulation (shell and ghee base)",
+    "uses": "Ulcer-healing ghṛta; supports gastric mucosa and Pitta regulation."}
+],
+
+
+"Avalehas (Confections or Dravyas mixed with honey or jaggery)": [
+  {
+    "heading": "Chyāvanapraśa Avaleha",
+    "botanical": "Multi-herbal formulation (Emblica officinalis + 40+ herbs)",
+    "uses": "Immune-boosting jam; antioxidant; respiratory tonic; promotes energy, vitality, and longevity."},
+  {
+    "heading": "Kaṣāyavīḍha Avaleha",
+    "botanical": "Multi-herbal bitter paste (e.g., neem, kutaja, trikatu)",
+    "uses": "Digestive stimulant; balances Pitta; aids in toxin elimination."},
+  {
+    "heading": "Śankhavāti Avaleha",
+    "botanical": "Multi-herbal formulation (Shankhpushpi, jatamansi, licorice, etc.)",
+    "uses": "Nervine tonic; supports cognitive function and stress reduction."},
+  {
+    "heading": "Suvarṇaprāśa Avaleha",
+    "botanical": "Herb-mineral jam (gold, mercury, herbal extracts)",
+    "uses": "Rejuvenative; pediatric growth tonic; immunomodulatory."},
+  {
+    "heading": "Triphala Avaleha",
+    "botanical": "Emblica officinalis, Terminalia chebula, Terminalia bellirica",
+    "uses": "Digestive paste; supports regular elimination; antioxidant."},
+  {
+    "heading": "Padmakṣīra Avaleha",
+    "botanical": "Crocus sativus, Nelumbo nucifera",
+    "uses": "Complexion enhancer; skin health; Rasāyana for beauty."},
+  {
+    "heading": "Śatāvarī Avaleha",
+    "botanical": "Asparagus racemosus",
+    "uses": "Female reproductive tonic; galactagogue; uterine support."},
+  {
+    "heading": "Mādhūshāka Avaleha",
+    "botanical": "Honey-based multi-herbs",
+    "uses": "General tonic; supports digestion and immunity."},
+  {
+    "heading": "Āditya Avaleha",
+    "botanical": "Multi-herbal (e.g., amla, ghee, honey, spices)",
+    "uses": "Solar energy enhancer; supports metabolic fire and vitality."},
+  {
+    "heading": "Kaumārī Avaleha",
+    "botanical": "Multi-herbal pediatric paste",
+    "uses": "Growth and development tonic for children; supports immune health."},
+  {
+    "heading": "Rāsnādi Avaleha",
+    "botanical": "Ginger, long pepper, pippali, rock salt",
+    "uses": "Digestive aid; carminative; improves appetite."},
+  {
+    "heading": "Lohitā Avaleha",
+    "botanical": "Beetroot, amla, iron salts",
+    "uses": "Hemtinic paste; supports healthy blood and anemia management."},
+  {
+    "heading": "Bhrāṃgī Avaleha",
+    "botanical": "Clerodendrum serratum",
+    "uses": "Respiratory pacifying jam; expectorant; antitussive."},
+  {
+    "heading": "Jīrṇodgāra Avaleha",
+    "botanical": "Ginger, ajwain, rock salt",
+    "uses": "Digestive fire rekindler; carminative; relief in indigestion."},
+  {
+    "heading": "Nakṣatra Avaleha",
+    "botanical": "Multi-herbal lunar cycle formulation",
+    "uses": "Supports circadian rhythms; promotes sleep and rejuvenation."},
+  {
+    "heading": "Mahāmohana Avaleha",
+    "botanical": "Herb-mineral confection (e.g., Madana, Uṣira, Mukta)",
+    "uses": "Cognitive attraction tonic; sedative; calming rasāyana."},
+  {
+    "heading": "Dāruharidrā Avaleha",
+    "botanical": "Berberis aristata",
+    "uses": "Pitta-balancing jam; digestive support; antipyretic."},
+  {
+    "heading": "Kṣīrāṉjāna Avaleha",
+    "botanical": "Sugar, ghee, herbs",
+    "uses": "Nutrient-dense dairy herb paste; supports nourishment and digestive health."},
+  {
+    "heading": "Lajjāraṅga Avaleha",
+    "botanical": "Multi-herbal detoxifying paste",
+    "uses": "Detoxifier; skin purifier; balances Pitta."},
+  {
+    "heading": "Sīta Avaleha",
+    "botanical": "Cooling herbs (e.g., sandalwood, cardamom, rose)",
+    "uses": "Cooling confection; Pitta pacifier; digestive cooling."}
+],
+
+"Aṣṭamāṅga formulations": [
+  {
+    "heading": "Aṣṭāṅga Bṛhat Trikadya",
+    "botanical": "Multi-herbal antipyretic roots",
+    "uses": "Fever reducer; supports Agni balance."},
+  {
+    "heading": "Aṣṭāṅga Lakṣadi Rogaharī",
+    "botanical": "Herbal pigment-removers",
+    "uses": "Skin pigmentation therapy; depigmentation."},
+  {
+    "heading": "Aṣṭāṅga Vātaghnī Mati",
+    "botanical": "Vāta-pacifying herbs",
+    "uses": "Balances Vāta; joint nourishment; nervine support." 
+  },
+  {
+    "heading": "Aṣṭāṅga Pittaghṇī Cūrṇa",
+    "botanical": "Pitta-balancing powders",
+    "uses": "Reduces Pitta; cooling digestive aid."},
+  {
+    "heading": "Aṣṭāṅga Kaphaghṇī Taila",
+    "botanical": "Kapha-balancing oils",
+    "uses": "Clears respiratory mucous; balances Kapha; topical and nasal use."},
+  {
+    "heading": "Aṣṭāṅga Jvaraghṇī Avaleha",
+    "botanical": "Fever-tonic jam",
+    "uses": "Fever management; rejuvenative post-fever support."},
+  {
+    "heading": "Aṣṭāṅga Śukrāṅjana Rasāyana",
+    "botanical": "Virility boosters",
+    "uses": "Reproductive tonic; supports semen quality and virility."},
+  {
+    "heading": "Aṣṭāṅga Medhya Rasāyana",
+    "botanical": "Cognitive enhancers",
+    "uses": "Memory and intellect tonic; nervine rejuvenation."},
+  {
+    "heading": "Aṣṭāṅga Ślesmā Sodhaka",
+    "botanical": "Mucolytic herbs",
+    "uses": "Clears phlegm; respiratory cleansing."},
+  {
+    "heading": "Aṣṭāṅga Mandagni Sādhana",
+    "botanical": "Digestive fire enhancers",
+    "uses": "Improves Agni; digestive support."},
+  {
+    "heading": "Aṣṭāṅga Raktapitta Sthāpana",
+    "botanical": "Bleeding control herbs",
+    "uses": "Manages bleeding disorders; hemostatic."},
+  {
+    "heading": "Aṣṭāṅga Kṣudratantri Cūrṇa",
+    "botanical": "Micro vessel tonics",
+    "uses": "Supports capillary health; improves circulation." 
+  },
+  {
+    "heading": "Aṣṭāṅga Sandhāna Praśamanī",
+    "botanical": "Joint demulcents",
+    "uses": "Joint pain relief; anti-inflammatory."},
+  {
+    "heading": "Aṣṭāṅga Dānavāpidaka Ghṛta",
+    "botanical": "Anti-parasitic ghṛta",
+    "uses": "Expels worms; digestive support."},
+  {
+    "heading": "Aṣṭāṅga Kushthaghna Cūrṇa",
+    "botanical": "Skin-clearing powders",
+    "uses": "Supports skin health; anti-leprosy action."},
+  {
+    "heading": "Aṣṭāṅga Śalyābhramaṇa",
+    "botanical": "Post-surgical cleansers",
+    "uses": "Wound healing; anti-inflammatory."},
+  {
+    "heading": "Aṣṭāṅga Vedanāśamana",
+    "botanical": "Pain relief herbs",
+    "uses": "Analgesic; anti-inflammatory."},
+  {
+    "heading": "Aṣṭāṅga Śarīra Sandhana",
+    "botanical": "Musculoskeletal builders",
+    "uses": "Supports muscle and bone health; rejuvenative."},
+  {
+    "heading": "Aṣṭāṅga Svāsa Prāṇāyana",
+    "botanical": "Respiratory tonics",
+    "uses": "Lung health support; anti-asthmatic."},
+  {
+    "heading": "Aṣṭāṅga Ojas Bodhana",
+    "botanical": "Ojas-nourishing herbs",
+    "uses": "Boosts ojas; supports immunity and vitality."}
+],
+
+"Sutras & Tailas": [
+  {
+    "heading": "Karpūrādi Taila",
+    "botanical": "Camphor, sesame oil",
+    "uses": "Topical analgesic; anti-inflammatory; Vāta-pacifier."},
+  {
+    "heading": "Mahānārāyaṇa Taila",
+    "botanical": "25-herb oil (incl. Nimba, Patola, Eranda)",
+    "uses": "Vāta therapy; joint and nerve pain relief."},
+  {
+    "heading": "Madanaphalādi Taila",
+    "botanical": "Alstonia scholaris derivatives",
+    "uses": "Anti-inflammatory; analgesic; respiratory support."},
+  {
+    "heading": "Śatapāta Taila",
+    "botanical": "Eclipta alba & allied herbs",
+    "uses": "Ear disorder oil; anti-inflammatory."},
+  {
+    "heading": "Dhanvantari Taila",
+    "botanical": "Multi-herbal surgical oil",
+    "uses": "Wound healing; post-surgical care."},
+  {
+    "heading": "Jatyādi Taila",
+    "botanical": "Nutmeg, sesame oil",
+    "uses": "Muscle relaxant; anti-spasmodic."},
+  {
+    "heading": "Lakṣadi Taila",
+    "botanical": "Sandalwood, sesame oil",
+    "uses": "Skin cooling; antiseptic."},
+  {
+    "heading": "Brihat Saindhava Taila",
+    "botanical": "Rock salt, sesame oil",
+    "uses": "Joint support; circulatory stimulant."},
+  {
+    "heading": "Trouṉga Taila",
+    "botanical": "Myristica fragrance derivatives",
+    "uses": "Mandibular pain relief; analgesic."},
+  {
+    "heading": "Gandhamādana Taila",
+    "botanical": "Sesame oil, fragrant gums",
+    "uses": "Analgesic scented oil; topical pain relief."},
+  {
+    "heading": "Uṣṇāvalēha Taila",
+    "botanical": "Hot herb paste-infused oil",
+    "uses": "Heat applicator; muscle relaxant."},
+  {
+    "heading": "Nārāyaṇa Ghṛta",
+    "botanical": "Clarified butter, multi-herbs",
+    "uses": "Neuralgia ghṛta; nerve pain relief."},
+  {
+    "heading": "Ṭīkṣṇa Taila",
+    "botanical": "Bio-stimulating decoction oil",
+    "uses": "Deep tissue penetration; topical stimulant."},
+  {
+    "heading": "Sirapādā Taila",
+    "botanical": "Sesame oil, herbal decoctions",
+    "uses": "Scalp strengthening; anti-dandruff."},
+  {
+    "heading": "Śirodhārā Taila",
+    "botanical": "Oil for head pour (e.g., tila taila)",
+    "uses": "Calming CNS; headache relief; stress reduction."},
+  {
+    "heading": "Vitiñjaka Taila",
+    "botanical": "Corneal ulcer oil (e.g., Jivanti extracts)",
+    "uses": "Ophthalmic antiseptic; ulcer healing."},
+  {
+    "heading": "Kumkumādi Taila",
+    "botanical": "Turmeric, sesame oil",
+    "uses": "Pitta pacifier; skin cooling and antiseptic."},
+  {
+    "heading": "Raktapīta Taila",
+    "botanical": "Herbal decoction oil",
+    "uses": "Bleeding control; hemostatic."},
+  {
+    "heading": "Ṭāpana Taila",
+    "botanical": "Thermal oil infusion",
+    "uses": "Thermal penetration; muscle/joint relief."},
+  {
+    "heading": "Mahārāśī Taila",
+    "botanical": "Antioxidant oil (e.g., sesame + herbs)",
+    "uses": "Antioxidant topical; skin nourishment."}
+],
+
+"Lauhas, Vajraka, Herbo-mineral Shilas": [
+  {
+    "heading": "Phalaṅga Lauha",
+    "botanical": "Ferric oxide (Iron calx)",
+    "uses": "Anemia correction; hematinic."},
+  {
+    "heading": "Śilājit Rasāyana",
+    "botanical": "Asphaltum (Shilajit)",
+    "uses": "Rejuvenative; anti-aging; enhances vitality and cognition."},
+  {
+    "heading": "Vajra Nimbapāta",
+    "botanical": "Herbo-mineral mercury-lime paste",
+    "uses": "Skin disorders; purgative."},
+  {
+    "heading": "Tāmra Bhasma",
+    "botanical": "Calcined copper",
+    "uses": "Vāta pacification; neural disorders."},
+  {
+    "heading": "Vanga Bhasma",
+    "botanical": "Calcined tin",
+    "uses": "Reproductive health; nervous system support."},
+  {
+    "heading": "Abhraka Bhasma",
+    "botanical": "Calcined mica",
+    "uses": "Respiratory and rejuvenative tonic."},
+  {
+    "heading": "Parad Bhasma",
+    "botanical": "Purified mercury",
+    "uses": "Rasāyana; anti-aging; immunomodulatory."},
+  {
+    "heading": "Kayā Lauha",
+    "botanical": "Mixed iron calces",
+    "uses": "Hematonic tonic; anemic support."},
+  {
+    "heading": "Yashada Bhasma",
+    "botanical": "Calcined zinc",
+    "uses": "Vision support; wound healing."},
+  {
+    "heading": "Mandūra Lauha",
+    "botanical": "Ferric oxide/red iron oxide",
+    "uses": "Anemia; skin disorders."},
+  {
+    "heading": "Śukti Pishti",
+    "botanical": "Pearl calx",
+    "uses": "Cardiac tonic; mental clarity."},
+  {
+    "heading": "Śankha Pishti",
+    "botanical": "Conch calx",
+    "uses": "Antacid; gastric ulcer support."},
+  {
+    "heading": "Nīla Śilājatu",
+    "botanical": "Variant of Shilajit",
+    "uses": "Rejuvenative; anti-aging."},
+  {
+    "heading": "Rasa Manikya",
+    "botanical": "Ruby–mercury calx",
+    "uses": "Cardiac tonic; aphrodisiac."},
+  {
+    "heading": "Suvarṇa Bhasma",
+    "botanical": "Purified gold",
+    "uses": "Rasāyana; cognitive tonic; immunity booster."},
+  {
+    "heading": "Śatādhātmik Lauha",
+    "botanical": "Multi-mineral iron calx",
+    "uses": "Chronic anemia; immunity support."},
+  {
+    "heading": "Swarna Makṣika Bhasma",
+    "botanical": "Copper ore calx",
+    "uses": "Respiratory disorders; hemic support."},
+  {
+    "heading": "Kṣīra Makṣika Bhasma",
+    "botanical": "Milk-calcined iron",
+    "uses": "Hematonic; digestive support."},
+  {
+    "heading": "Aṅka Lauha",
+    "botanical": "Ferruginous clay iron",
+    "uses": "Skin disorders; anemic support."},
+  {
+    "heading": "Kamala Lauha",
+    "botanical": "Lotus iron complex",
+    "uses": "Skin care; anemia."}
+],
+
+"Prakṛti-Taila or Varti": [
+  {
+    "heading": "Anośavarta",
+    "botanical": "Oil suppository (e.g., sesame + herbs)",
+    "uses": "Anal fissure relief; Vata pacification."},
+  {
+    "heading": "Jalū Varti",
+    "botanical": "Fish oil-based paste",
+    "uses": "Fistula-in-ano management; wound healing."},
+  {
+    "heading": "Likādi Varti",
+    "botanical": "Euphorbia latex paste",
+    "uses": "Anal fistula; ulcer healing."},
+  {
+    "heading": "Pītaśākti Varti",
+    "botanical": "Turmeric paste",
+    "uses": "Gynecological applications; anti-inflammatory."},
+  {
+    "heading": "Yoni Varti",
+    "botanical": "Herbal vaginal paste",
+    "uses": "Vaginal infections; Pitta pacification."},
+  {
+    "heading": "Asthi Vr̥ddhi Varti",
+    "botanical": "Bone growth paste (e.g., bhasmas + herbs)",
+    "uses": "Bone regeneration; fracture healing."},
+  {
+    "heading": "Kṣara Varti",
+    "botanical": "Alkali paste (e.g., plant ash + fats)",
+    "uses": "Ulcerative lesions; hemorrhoid treatment."},
+  {
+    "heading": "Śiro Varti",
+    "botanical": "Nasal application paste",
+    "uses": "Sinus relief; migraine therapy."},
+  {
+    "heading": "Guda Varti",
+    "botanical": "Hemic paste (e.g., jaggery + herbs)",
+    "uses": "Hemorrhoid relief."},
+  {
+    "heading": "Danta Varti",
+    "botanical": "Gum repair paste (e.g., herbal resins)",
+    "uses": "Gingival healing; dental stimulation."},
+  {
+    "heading": "Kāla Varti",
+    "botanical": "Pigment paste (e.g., charcoal + oils)",
+    "uses": "Dermal pigment correction."},
+  {
+    "heading": "Nāsya Varti",
+    "botanical": "Oil paste for nasal use",
+    "uses": "Upper respiratory lubrication; sinus support."},
+  {
+    "heading": "Arśa Varti",
+    "botanical": "Piles treatment paste (e.g., guggulu + oils)",
+    "uses": "Hemorrhoid management."},
+  {
+    "heading": "Jantughna Varti",
+    "botanical": "Anti-parasitic paste (e.g., neem + turmeric)",
+    "uses": "Parasite eradication; topical antimicrobial."},
+  {
+    "heading": "Kanthi Varti",
+    "botanical": "Throat healing paste (e.g., licorice + honey)",
+    "uses": "Sore throat relief; anti-inflammatory."},
+  {
+    "heading": "Netra Varti",
+    "botanical": "Eye corner ointment (e.g., triphala + ghee)",
+    "uses": "Eye lubrication; conjunctivitis support."},
+  {
+    "heading": "Hṛd Varti",
+    "botanical": "Cardiac paste (e.g., arjuna + honey)",
+    "uses": "Cardiac support; hemostatic."},
+  {
+    "heading": "Mūtra Varti",
+    "botanical": "Urinary tract paste (e.g., punarnava + ghee)",
+    "uses": "Urinary disorders; diuretic." 
+  },
+  {
+    "heading": "Rakta Varti",
+    "botanical": "Bleeding control paste (e.g., amalaki + haritaki)",
+    "uses": "Hemostatic; wound healing."},
+  {
+    "heading": "Vāti Varti",
+    "botanical": "Vāta pacifying paste (e.g., bala + sesame oil)",
+    "uses": "Vāta disorders; analgesic; anti-spasmodic." 
+  }
+],
+
+
+"Single-herb tablets or capsules": [
+  {
+    "heading": "Aśvagandhā Tablet (250 mg, 500 mg, 1 g)",
+    "botanical": "Withania somnifera (L.) Dunal",
+    "uses": "Adaptogen; nervine tonic; supports stress resilience, stamina, and immunity." 
+  },
+  {
+    "heading": "Gudūcī Capsule (250 mg, 500 mg)",
+    "botanical": "Tinospora cordifolia (Miers) Hook.f. & Thomson",
+    "uses": "Immunomodulator; antipyretic; hepatoprotective; supports detoxification." 
+  },
+  {
+    "heading": "Haridrā Capsule (95% curcuminoids)",
+    "botanical": "Curcuma longa L.",
+    "uses": "Anti-inflammatory; antioxidant; hepatoprotective; supports joint and digestive health." 
+  },
+  {
+    "heading": "Śatāvarī Tablet (500 mg)",
+    "botanical": "Asparagus racemosus Willd.",
+    "uses": "Female reproductive tonic; galactagogue; nervine tonic; supports hormonal balance." 
+  },
+  {
+    "heading": "Brahmī Capsule (300 mg)",
+    "botanical": "Bacopa monnieri (L.) Wettst.",
+    "uses": "Cognitive enhancer; memory and learning support; anxiolytic." 
+  },
+  {
+    "heading": "Tulasi Tablet (250 mg)",
+    "botanical": "Ocimum tenuiflorum L.",
+    "uses": "Adaptogen; respiratory tonic; anti-stress and immunity booster." 
+  },
+  {
+    "heading": "Musta Tablet (250 mg)",
+    "botanical": "Cyperus rotundus L.",
+    "uses": "Digestive carminative; antispasmodic; supports menstrual regulation." 
+  },
+  {
+    "heading": "Bala Capsule (100 mg)",
+    "botanical": "Sida cordifolia L.",
+    "uses": "Vāta pacifier; analgesic; nervine tonic; supports musculoskeletal strength." 
+  },
+  {
+    "heading": "Pippalī Tablet (400 mg)",
+    "botanical": "Piper longum L.",
+    "uses": "Digestive stimulant; carminative; respiratory tonic; Kapha–Vāta śāmaka." 
+  },
+  {
+    "heading": "Arjuna Tablet (250 mg)",
+    "botanical": "Terminalia arjuna (Roxb.) Wight & Arn.",
+    "uses": "Cardioprotective; astringent; supports healthy blood pressure and lipid levels." 
+  },
+  {
+    "heading": "Neem Capsule (500 mg)",
+    "botanical": "Azadirachta indica A.Juss.",
+    "uses": "Antiparasitic; antibacterial; supports skin health and glycemic balance." 
+  },
+  {
+    "heading": "Aloe Vera Capsule (300 mg)",
+    "botanical": "Aloe vera (L.) Burm.f.",
+    "uses": "Gastrointestinal soothing; anti-inflammatory; supports skin and mucosal healing." 
+  },
+  {
+    "heading": "Methi Tablet (500 mg)",
+    "botanical": "Trigonella foenum-graecum L.",
+    "uses": "Hypoglycemic; cholesterol-lowering; gastrointestinal demulcent." 
+  },
+  {
+    "heading": "Guggulu Tablet (500 mg)",
+    "botanical": "Commiphora mukul (Hook. ex Stocks) Engl.",
+    "uses": "Lipid-lowering; anti-inflammatory; supports joint health." 
+  },
+  {
+    "heading": "Amalaki Capsule (500 mg)",
+    "botanical": "Emblica officinalis Gaertn.",
+    "uses": "Antioxidant; rasāyana; digestive tonic; supports respiratory health." 
+  },
+  {
+    "heading": "Ashoka Tablet (250 mg)",
+    "botanical": "Saraca asoca (Roxb.) Willd.",
+    "uses": "Uterine tonic; astringent; supports menstrual health." 
+  },
+  {
+    "heading": "Ginger Capsule (250 mg)",
+    "botanical": "Zingiber officinale Roscoe",
+    "uses": "Digestive carminative; anti-emetic; anti-inflammatory." 
+  },
+  {
+    "heading": "Trikatu Capsule (500 mg)",
+    "botanical": "Piper nigrum L., Piper longum L., Zingiber officinale Roscoe",
+    "uses": "Metabolic stimulant; digestive enhancer; circulatory tonic." 
+  },
+  {
+    "heading": "Shankhapushpi Tablet (250 mg)",
+    "botanical": "Convolvulus pluricaulis Choisy",
+    "uses": "Nervine tonic; improves memory, concentration; anxiolytic." 
+  },
+  {
+    "heading": "Kutki Tablet (250 mg)",
+    "botanical": "Picrorhiza kurroa Royle ex Benth.",
+    "uses": "Hepatoprotective; cholagogue; supports liver detoxification." 
+  }
+],
+
+"Polyherbal combinations": [
+  {
+    "heading": "Triphala Guggulu Tablet",
+    "botanical": "Triphala (Emblica officinalis, Terminalia chebula, Terminalia bellirica) + Commiphora mukul",
+    "uses": "Detoxifying laxative; supports digestion, weight management, cholesterol balance; treats piles and fistula."},
+  {
+    "heading": "Brahmi Ghṛta Tablet",
+    "botanical": "Bacopa monnieri extract in clarified butter",
+    "uses": "Cognitive enhancer; nervine tonic; supports memory, learning, and stress reduction."},
+  {
+    "heading": "Bilvādi Churna Tablet",
+    "botanical": "Aegle marmelos, Cyperus rotundus, Piper longum",
+    "uses": "Digestive stimulant; carminative; supports healthy bowel function."},
+  {
+    "heading": "Maharasnadi Kwātha Tablet",
+    "botanical": "Decoction of 30 herbs",
+    "uses": "Digestive stimulant; post-infection restorative; supports Agni balance."},
+  {
+    "heading": "Daśamūla Tablet",
+    "botanical": "Ten roots (e.g., Bilva, Agnimantha, Patala, Gambhari, Musta, Kantakari, Gokshura, Shalaparni, Prishnaparni, Brihati)",
+    "uses": "Vāta pacifier; anti-inflammatory; supports joint and nerve health."},
+  {
+    "heading": "Chyāvanaprāśa Tablet",
+    "botanical": "Multi-herbal Amla jam compressed",
+    "uses": "Rasāyana; immunity booster; supports energy, vitality, and respiratory health."},
+  {
+    "heading": "Triphala Cūrṇa Tablet",
+    "botanical": "Emblica officinalis, Terminalia chebula, Terminalia bellirica",
+    "uses": "Digestive tonic; antioxidant; supports regular elimination."},
+  {
+    "heading": "Sitopaladi Tablet",
+    "botanical": "Bambusa arundinacea, Piper longum, Cinnamomum verum, Zingiber officinale, sugar",
+    "uses": "Pediatric respiratory support; expectorant; antipyretic." 
+  },
+  {
+    "heading": "Arjuna Guggulu Capsule",
+    "botanical": "Terminalia arjuna, Commiphora mukul",
+    "uses": "Cardioprotective; lipid-lowering; supports healthy blood pressure and cardiac function."},
+  {
+    "heading": "Ashvagandhā + Śatāvarī Capsule",
+    "botanical": "Withania somnifera + Asparagus racemosus",
+    "uses": "Dual adaptogen; supports stress resilience, hormonal balance, and reproductive health." 
+  },
+  {
+    "heading": "Navāṅgayā Ras Tablet",
+    "botanical": "Nine fruits (e.g., Emblica officinalis, Terminalia chebula, Terminalia bellirica, Piper longum…)",
+    "uses": "Fruit-based rejuvenative; antioxidant; supports digestion and vitality."},
+  {
+    "heading": "Gokṣūrādi Tablet",
+    "botanical": "Tribulus terrestris, Boerhavia diffusa",
+    "uses": "Diuretic; supports kidney and urinary tract health; lithotriptic."},
+  {
+    "heading": "Kumārī + Aloe Tablet",
+    "botanical": "Aloe vera, Sitopaladi herbs",
+    "uses": "Cooling demulcent; supports skin health, digestion, and mucosal healing." 
+  },
+  {
+    "heading": "Jatamansi + Brahmi Tablet",
+    "botanical": "Nardostachys jatamansi, Bacopa monnieri",
+    "uses": "Neurotonic duo; supports cognitive function, memory, and stress reduction." 
+  },
+  {
+    "heading": "Haridrā + Triphala Tablet",
+    "botanical": "Curcuma longa, Emblica officinalis, Terminalia chebula, Terminalia bellirica",
+    "uses": "Anti-inflammatory digestive tonic; supports liver health and antioxidant status." 
+  },
+  {
+    "heading": "Kutki + Kuṭaja Capsule",
+    "botanical": "Picrorhiza kurroa, Holarrhena pubescens",
+    "uses": "Hepatoprotective; antidiarrheal; supports gastrointestinal health." 
+  },
+  {
+    "heading": "Amalaki + Bibhitaki Tablet",
+    "botanical": "Emblica officinalis, Terminalia bellirica",
+    "uses": "Antioxidant duo; supports digestive health and detoxification."},
+  {
+    "heading": "Bilvā + Haridrā Tablet",
+    "botanical": "Aegle marmelos, Curcuma longa",
+    "uses": "Pitta balancing; digestive and anti-inflammatory support."},
+  {
+    "heading": "Madhuyashti + Yashtimadhu Capsule",
+    "botanical": "Glycyrrhiza glabra, Madhuca longifolia",
+    "uses": "Respiratory rejuvenative; demulcent; anti-inflammatory." 
+  },
+  {
+    "heading": "Guggulu + Shallaki Tablet",
+    "botanical": "Commiphora mukul, Boswellia serrata",
+    "uses": "Joint support; anti-inflammatory; analgesic."}
+],
+
+
+"Syrups & Arishtas": [
+  {
+    "heading": "Aśokāriṣṭa",
+    "botanical": "Fermented Ashoka (Saraca asoca) bark decoction",
+    "uses": "Uterine tonic; promotes menstrual health; uterine hemostatic and anti-inflammatory properties." 
+  },
+  {
+    "heading": "Madhukīriṣṭa",
+    "botanical": "Fermented Glycyrrhiza glabra (licorice) root decoction",
+    "uses": "Demulcent; anti-inflammatory; supports respiratory and gastrointestinal health." 
+  },
+  {
+    "heading": "Dashamūla Syrup",
+    "botanical": "Decoction of ten roots (Daśamūla)",
+    "uses": "Vāta pacifier; anti-inflammatory; supports joint health and nerve function." 
+  },
+  {
+    "heading": "Mahāvedhaṃ Ariṣṭha",
+    "botanical": "Fermented multi-herb digestive blend",
+    "uses": "Digestive stimulant; carminative; alleviates indigestion and bloating." 
+  },
+  {
+    "heading": "Chyāvanaprāśa Syrup",
+    "botanical": "Amla-based fermented syrup",
+    "uses": "Immunity booster; antioxidant; respiratory tonic; rejuvenative." 
+  },
+  {
+    "heading": "Triphala Ariṣṭha",
+    "botanical": "Fermented Triphala (Amla, Haritaki, Bibhitaki) decoction",
+    "uses": "Mild laxative; antioxidant; supports digestive health." 
+  },
+  {
+    "heading": "Brahmī Syrup",
+    "botanical": "Bacopa monnieri decoction",
+    "uses": "Cognitive tonic; nervine tonic; supports memory and concentration." 
+  },
+  {
+    "heading": "Bhrāṃgī Ariṣṭha",
+    "botanical": "Fermented Clerodendrum serratum decoction",
+    "uses": "Respiratory stimulant; expectorant; supports bronchial health." 
+  },
+  {
+    "heading": "Śatāvarī Syrup",
+    "botanical": "Asparagus racemosus decoction",
+    "uses": "Female reproductive tonic; galactagogue; supports hormonal balance." 
+  },
+  {
+    "heading": "Gokṣūrādi Ariṣṭha",
+    "botanical": "Fermented Tribulus terrestris & Boerhavia diffusa decoction",
+    "uses": "Diuretic; lithotriptic; supports urinary tract health." 
+  },
+  {
+    "heading": "Arjuna Syrup",
+    "botanical": "Terminalia arjuna decoction",
+    "uses": "Cardiotonic; astringent; supports circulation and healthy blood pressure." 
+  },
+  {
+    "heading": "Shankhapushpi Ariṣṭha",
+    "botanical": "Fermented Convolvulus pluricaulis decoction",
+    "uses": "Nervine tonic; supports cognitive function and stress reduction." 
+  },
+  {
+    "heading": "Musta Syrup",
+    "botanical": "Cyperus rotundus decoction",
+    "uses": "Digestive stimulant; carminative; supports gastrointestinal balance." 
+  },
+  {
+    "heading": "Haridrā Ariṣṭha",
+    "botanical": "Curcuma longa decoction",
+    "uses": "Anti-inflammatory; antioxidant; supports liver and digestive health." 
+  },
+  {
+    "heading": "Kutki Syrup",
+    "botanical": "Picrorhiza kurroa decoction",
+    "uses": "Hepatoprotective; cholagogue; supports liver detoxification." 
+  },
+  {
+    "heading": "Giloy Ariṣṭha",
+    "botanical": "Tinospora cordifolia decoction",
+    "uses": "Immunity booster; antipyretic; supports detoxification." 
+  },
+  {
+    "heading": "Mangiferin Syrup",
+    "botanical": "Mangifera indica leaf extract",
+    "uses": "Antioxidant; anti-inflammatory; supports metabolic health." 
+  },
+  {
+    "heading": "Jatamansi Ariṣṭha",
+    "botanical": "Nardostachys jatamansi decoction",
+    "uses": "Sedative; nervine tonic; supports sleep and stress relief." 
+  },
+  {
+    "heading": "Guggulu Syrup",
+    "botanical": "Commiphora mukul resin decoction",
+    "uses": "Joint health; anti-inflammatory; lipid-lowering support." 
+  },
+  {
+    "heading": "Ashvagandhā Ariṣṭha",
+    "botanical": "Withania somnifera decoction",
+    "uses": "Adaptogenic tonic; supports stress resilience and vitality." 
+  }
+],
+
+
+"Oils & Ointments": [
+  {
+    "heading": "Karpūrādi Taila",
+    "botanical": "Camphor, sesame oil",
+    "uses": "Topical analgesic; anti-inflammatory; Vāta pacifier." 
+  },
+  {
+    "heading": "Kājjalādi Taila",
+    "botanical": "Herbal ophthalmic oils (e.g., Chandana, Yashtimadhu)",
+    "uses": "Soothes eyes; anti-inflammatory; improves ocular health." 
+  },
+  {
+    "heading": "Mahanārāyaṇa Taila",
+    "botanical": "25-herb oil blend",
+    "uses": "Vāta therapy; joint and nerve pain relief." 
+  },
+  {
+    "heading": "Mahanārāyaṇa Ghṛta",
+    "botanical": "Tablet emulsion in ghṛta base",
+    "uses": "Internal Vāta pacifier; supports joint and muscular health." 
+  },
+  {
+    "heading": "Nālakkiṣṭha Taila",
+    "botanical": "Herbal oil for skin diseases (e.g., neem, manjistha)",
+    "uses": "Antibacterial; wound healing; skin nourishment." 
+  },
+  {
+    "heading": "Kamala Kalpa Oil",
+    "botanical": "Lotus and sesame oil",
+    "uses": "Hair growth; scalp nourishment; emollient." 
+  },
+  {
+    "heading": "Yogarañjaka Ointment",
+    "botanical": "Herbal pigment-removers (e.g., manjistha, turmeric)",
+    "uses": "Skin lightening; pigmentation correction; antioxidant." 
+  },
+  {
+    "heading": "Mahāvedhaṃ Ointment",
+    "botanical": "Digestive rub blend (e.g., ginger, hing)",
+    "uses": "Topical digestive rub; relieves abdominal discomfort." 
+  },
+  {
+    "heading": "Sitoplādi Oil",
+    "botanical": "Bambusa arundinacea oil blend",
+    "uses": "Pediatric cough relief; expectorant; gentle." 
+  },
+  {
+    "heading": "Dhanvantari Taila",
+    "botanical": "Multi-herbal surgical oil",
+    "uses": "Wound healing; post-surgical care; anti-inflammatory." 
+  },
+  {
+    "heading": "Vicārya Ointment",
+    "botanical": "Hematonic rub (e.g., manjistha, amalaki)",
+    "uses": "Promotes healthy blood; supports skin microcirculation." 
+  },
+  {
+    "heading": "Manjiṣṭhā Cream",
+    "botanical": "Rubia cordifolia extract",
+    "uses": "Blood purifier; skin rejuvenation; anti-inflammatory." 
+  },
+  {
+    "heading": "Gudūcī Oil",
+    "botanical": "Tinospora cordifolia oil infusion",
+    "uses": "Immunity booster; anti-inflammatory; skin health." 
+  },
+  {
+    "heading": "Bala Taila",
+    "botanical": "Sida cordifolia oil infusion",
+    "uses": "Nervine massage oil; Vāta pacifier; analgesic." 
+  },
+  {
+    "heading": "Haridrā Cream",
+    "botanical": "Curcuma longa extract in cream base",
+    "uses": "Anti-inflammatory topical; wound healing; Pitta pacifier." 
+  },
+  {
+    "heading": "Musta Ointment",
+    "botanical": "Cyperus rotundus extract",
+    "uses": "Digestive rub; antispasmodic; carminative." 
+  },
+  {
+    "heading": "Pippalī Oil",
+    "botanical": "Piper longum oil infusion",
+    "uses": "Respiratory steam oil; expectorant; carminative." 
+  },
+  {
+    "heading": "Brahmī Oil",
+    "botanical": "Bacopa monnieri oil infusion",
+    "uses": "Cognitive massage oil; nervous system support." 
+  },
+  {
+    "heading": "Trikatu Ointment",
+    "botanical": "Piper nigrum, Piper longum, Zingiber officinale extracts",
+    "uses": "Metabolic rub; digestive stimulant; circulatory enhancer." 
+  },
+  {
+    "heading": "Guggulu Ointment",
+    "botanical": "Commiphora mukul resin infusion",
+    "uses": "Joint pain relief; anti-inflammatory; analgesic." 
+  }
+],
+
+
+"Medicated Ghṛtas & Avalehas": [
+  {
+    "heading": "Dabur Chyāvanaprāśa",
+    "botanical": "Multi-herbal Amla jam",
+    "uses": "Immunity booster; antioxidant; rejuvenative." 
+  },
+  {
+    "heading": "Patanjali Chyāvanprāśa",
+    "botanical": "Multi-herbal Amla jam",
+    "uses": "Rasāyana; supports respiratory and digestive health." 
+  },
+  {
+    "heading": "Himalaya Triphala Avaleha",
+    "botanical": "Emblica officinalis, Terminalia chebula, Terminalia bellirica jam",
+    "uses": "Digestive tonic; antioxidant; supports bowel health." 
+  },
+  {
+    "heading": "Baidyanath Mahā Rasāyana Avaleha",
+    "botanical": "Multi-herbal longevity jam",
+    "uses": "Rejuvenative; supports vitality and ojas." 
+  },
+  {
+    "heading": "Zandu Suvarṇaprāśa",
+    "botanical": "Gold–mercury fortified jam",
+    "uses": "Rejuvenative; pediatric growth tonic; immunomodulatory." 
+  },
+  {
+    "heading": "Dabur Triphala Avaleha",
+    "botanical": "Triphala fruit paste",
+    "uses": "Digestive paste; antioxidant; supports gut health." 
+  },
+  {
+    "heading": "Charak Triphala Avaleha",
+    "botanical": "Triphala fruit paste",
+    "uses": "Traditional digestive tonic; supports regular elimination." 
+  },
+  {
+    "heading": "Dabur Mahā Rasāyana Ghṛta",
+    "botanical": "Multi-herbal ghṛta",
+    "uses": "Longevity-promoting; rejuvenative; supports ojas." 
+  },
+  {
+    "heading": "Patanjali Mahā Rasāyana",
+    "botanical": "Multi-herbal ghṛta",
+    "uses": "General tonic; supports strength and immunity." 
+  },
+  {
+    "heading": "Himalaya Suvarṇaprāśa",
+    "botanical": "Gold–mercury fortified jam",
+    "uses": "Rejuvenative; supports pediatric growth and immunity." 
+  },
+  {
+    "heading": "Baidyanath Rasāyanāvali",
+    "botanical": "Tablet jam formulation",
+    "uses": "Rejuvenative; multi-herb rasāyana." 
+  },
+  {
+    "heading": "Dabur Ashvagandha Ghṛta",
+    "botanical": "Withania somnifera in ghee",
+    "uses": "Adaptogenic ghṛta; supports stress resilience." 
+  },
+  {
+    "heading": "Patanjali Ras Ball",
+    "botanical": "Herbal paste balls",
+    "uses": "Digestive and rejuvenative; convenient rasāyana." 
+  },
+  {
+    "heading": "Dabur Shilajit Rasāyana",
+    "botanical": "Asphaltum (Shilajit) resin",
+    "uses": "Rejuvenative; anti-aging; cognitive support." 
+  },
+  {
+    "heading": "Zandu Ashvagandha Avaleha",
+    "botanical": "Withania somnifera jam",
+    "uses": "Adaptogenic paste; supports strength and vitality." 
+  },
+  {
+    "heading": "Dabur Brahmariṣta Ghṛta",
+    "botanical": "Bacopa monnieri ghṛta",
+    "uses": "Nootropic ghṛta; cognitive support." 
+  },
+  {
+    "heading": "Baidyanath Shatavari Avaleha",
+    "botanical": "Asparagus racemosus jam",
+    "uses": "Female reproductive tonic; galactagogue." 
+  },
+  {
+    "heading": "Himalaya Chyāvanprāśa Syrup",
+    "botanical": "Amla jam syrup",
+    "uses": "Liquid rasāyana; immune support." 
+  },
+  {
+    "heading": "Charak Mahā Rasāyana Tablet",
+    "botanical": "Compressed multi-herbal jam",
+    "uses": "Convenient longevity tonic; rejuvenative." 
+  },
+  {
+    "heading": "Dabur Triphala Syrup",
+    "botanical": "Triphala powder syrup",
+    "uses": "Digestive tonic; antioxidant; supports elimination." 
+  }
+],
+
+
+"Proprietary spa or skincare blends": [
+  {
+    "heading": "Nārikelādikera Skin Pack",
+    "botanical": "Cocos nucifera, Crocus sativus, Curcuma longa",
+    "uses": "Hydrating; brightening; antioxidant skin pack." 
+  },
+  {
+    "heading": "Tulasi Face Scrub",
+    "botanical": "Ocimum tenuiflorum, Fuller’s earth",
+    "uses": "Exfoliating; antibacterial; skin clarity." 
+  },
+  {
+    "heading": "Sandhikaṇṭaka Soap",
+    "botanical": "Azadirachta indica, Curcuma longa",
+    "uses": "Antibacterial; anti-inflammatory; acne control." 
+  },
+  {
+    "heading": "Mukhaprada Face Wash",
+    "botanical": "Triphala, Honey",
+    "uses": "Gentle cleanser; antioxidant; anti-inflammatory." 
+  },
+  {
+    "heading": "Ubtan Gulab Jal",
+    "botanical": "Rosa damascena, Multani mitti",
+    "uses": "Soothing; brightening; anti-inflammatory." 
+  },
+  {
+    "heading": "Chandan Makham",
+    "botanical": "Santalum album",
+    "uses": "Cooling; antiseptic; skin toning." 
+  },
+  {
+    "heading": "Manjiṣṭhā Serum",
+    "botanical": "Rubia cordifolia",
+    "uses": "Blood purifier; anti-inflammatory; skin rejuvenation." 
+  },
+  {
+    "heading": "Kusthar Vati Gel",
+    "botanical": "Curcuma longa, Azadirachta indica",
+    "uses": "Acne healing; antibacterial; anti-inflammatory." 
+  },
+  {
+    "heading": "Giloy Face Mist",
+    "botanical": "Tinospora cordifolia",
+    "uses": "Antioxidant; anti-inflammatory; skin hydration." 
+  },
+  {
+    "heading": "Ashwagandha Eye Cream",
+    "botanical": "Withania somnifera",
+    "uses": "Adaptogenic under-eye treatment; reduces puffiness and dark circles." 
+  },
+  {
+    "heading": "Kumkumadi Night Oil",
+    "botanical": "Crocus sativus, Prunus amygdalus",
+    "uses": "Brightening; anti-aging; skin renewal." 
+  },
+  {
+    "heading": "Shirodhara Serum",
+    "botanical": "Sesame oil, herbal decoctions",
+    "uses": "Calming hair and skin serum; relaxant." 
+  },
+  {
+    "heading": "Sandalwood Moisturizer",
+    "botanical": "Santalum album",
+    "uses": "Soothing; anti-inflammatory; hydrating." 
+  },
+  {
+    "heading": "Neem Tea Tree Toner",
+    "botanical": "Azadirachta indica, Melaleuca alternifolia",
+    "uses": "Acne control; antibacterial; oil balancing." 
+  },
+  {
+    "heading": "Aloe Vera Gel",
+    "botanical": "Aloe vera",
+    "uses": "Cooling; healing; hydrating." 
+  },
+  {
+    "heading": "Rosehip Anti age Oil",
+    "botanical": "Rosa rubiginosa",
+    "uses": "Regenerative; anti-aging; skin elasticity." 
+  },
+  {
+    "heading": "Bhrāmgī Lip Balm",
+    "botanical": "Clerodendrum serratum",
+    "uses": "Protective; healing; anti-inflammatory." 
+  },
+  {
+    "heading": "Trikatu Body Scrub",
+    "botanical": "Piper nigrum, Piper longum, Zingiber officinale",
+    "uses": "Exfoliant; metabolic stimulant; skin renewal." 
+  },
+  {
+    "heading": "Haridrā Face Mask",
+    "botanical": "Curcuma longa, Multani mitti",
+    "uses": "Anti-inflammatory; brightening; acne control." 
+  },
+  {
+    "heading": "Kesar Badam Milk Pack",
+    "botanical": "Crocus sativus, Prunus amygdalus, milk solids",
+    "uses": "Brightening; nourishing; hydrating." 
+  }
+],
+
+
+"Nutraceuticals": [
+  {
+    "heading": "Aśvagandhā + Śilājit Softgel",
+    "botanical": "Withania somnifera, Asphaltum (Shilajit)",
+    "uses": "Adaptogenic synergy; enhances vitality, cognitive function, and anti-aging." 
+  },
+  {
+    "heading": "Triphala + Calcium Chewable",
+    "botanical": "Emblica officinalis, Terminalia chebula, Terminalia bellirica, Calcium carbonate",
+    "uses": "Bone health supplement; antioxidant; supports digestion." 
+  },
+  {
+    "heading": "Gudūcī + Probiotic Capsule",
+    "botanical": "Tinospora cordifolia, Multi-strain probiotics",
+    "uses": "Immunity and gut microbiome support; anti-inflammatory." 
+  },
+  {
+    "heading": "Turmeric + Black Pepper Capsule",
+    "botanical": "Curcuma longa, Piper nigrum",
+    "uses": "Anti-inflammatory; bioavailability-enhanced antioxidant; supports joint health." 
+  },
+  {
+    "heading": "Brahmi + B Complex Tablet",
+    "botanical": "Bacopa monnieri, B-group vitamins",
+    "uses": "Cognitive support; energy metabolism; nervous system health." 
+  },
+  {
+    "heading": "Ashvagandha + Zinc Lozenges",
+    "botanical": "Withania somnifera, Zinc gluconate",
+    "uses": "Stress resilience; immune function; respiratory support." 
+  },
+  {
+    "heading": "Shatavari + Iron Syrup",
+    "botanical": "Asparagus racemosus, Ferrous sulfate",
+    "uses": "Female health syrup; supports hemoglobin synthesis and hormonal balance." 
+  },
+  {
+    "heading": "Neem + Omega 3 Softgel",
+    "botanical": "Azadirachta indica, Fish oil",
+    "uses": "Skin health; cardiovascular support; anti-inflammatory." 
+  },
+  {
+    "heading": "Trikatu + Vitamin C",
+    "botanical": "Piper nigrum, Piper longum, Zingiber officinale, Ascorbic acid",
+    "uses": "Respiratory antioxidant support; digestive health." 
+  },
+  {
+    "heading": "Ashoka + Folic Acid Tablet",
+    "botanical": "Saraca asoca, Folic acid",
+    "uses": "Women’s tonic; supports cardiovascular and reproductive health." 
+  },
+  {
+    "heading": "Guggulu + CoQ10 Capsule",
+    "botanical": "Commiphora mukul, Coenzyme Q10",
+    "uses": "Lipid-lowering and antioxidant; supports heart health." 
+  },
+  {
+    "heading": "Musta + Magnesium Chewable",
+    "botanical": "Cyperus rotundus, Magnesium citrate",
+    "uses": "Digestive and relaxation support; antispasmodic." 
+  },
+  {
+    "heading": "Kutki + Milk Thistle Capsule",
+    "botanical": "Picrorhiza kurroa, Silybum marianum",
+    "uses": "Liver detox; hepatoprotective synergy." 
+  },
+  {
+    "heading": "Ashvagandha + L-Theanine",
+    "botanical": "Withania somnifera, L-Theanine",
+    "uses": "Calming adaptogen; supports stress relief and cognitive focus." 
+  },
+  {
+    "heading": "Tulasi + Selenium Capsule",
+    "botanical": "Ocimum tenuiflorum, Selenium",
+    "uses": "Respiratory and antioxidant support; immune booster." 
+  },
+  {
+    "heading": "Giloy + Vitamin D3 Drops",
+    "botanical": "Tinospora cordifolia, Cholecalciferol",
+    "uses": "Immunity and bone health support." 
+  },
+  {
+    "heading": "Aloe Vera + Collagen Powder",
+    "botanical": "Aloe vera extract, Collagen peptides",
+    "uses": "Skin and joint support; hydration and elasticity." 
+  },
+  {
+    "heading": "Bacopa + DHA Tablet",
+    "botanical": "Bacopa monnieri, Docosahexaenoic acid",
+    "uses": "Neuro support; cognitive enhancement; omega-3 synergy." 
+  },
+  {
+    "heading": "Moringa + Spirulina Capsule",
+    "botanical": "Moringa oleifera, Spirulina platensis",
+    "uses": "Nutrient-dense blend; antioxidant; immune support." 
+  },
+  {
+    "heading": "Triphala + Green Tea Tablet",
+    "botanical": "Emblica officinalis, Terminalia chebula, Terminalia bellirica, Camellia sinensis",
+    "uses": "Metabolic support; antioxidant; weight management." 
+  }
+]
+
+}
