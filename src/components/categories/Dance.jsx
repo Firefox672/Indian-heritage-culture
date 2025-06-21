@@ -27,7 +27,7 @@ const Dance = () => {
 
   useEffect(() => {
     window.scrollTo(0, 0);
-    fetch('/data/Dance_data.json')
+    fetch('data/Dance_data.json')
       .then(response => response.json())
       .then(data => setDanceData(data))
       .catch(error => console.error('Error fetching data:', error));

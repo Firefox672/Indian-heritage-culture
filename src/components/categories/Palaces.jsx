@@ -27,7 +27,7 @@ const Palaces = () => {
 
   useEffect(() => {
     window.scrollTo(0, 0);
-    fetch('/data/Palaces_data.json')
+    fetch('data/Palaces_data.json')
       .then(response => response.json())
       .then(data => setPalacesData(data))
       .catch(error => console.error('Error fetching data:', error));

@@ -162,7 +162,7 @@ const Architecture = () => {
   useEffect(() => {
     window.scrollTo(0, 0);
     
-    fetch('/data/Architecture_data.json')
+    fetch('data/Architecture_data.json')
       .then(response => response.json())
       .then(data => setArchitectureData(data))
       .catch(error => console.error('Error fetching data:', error));

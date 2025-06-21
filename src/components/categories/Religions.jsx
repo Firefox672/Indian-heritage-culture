@@ -27,7 +27,7 @@ const Religions = () => {
 
   useEffect(() => {
     window.scrollTo(0, 0);
-    fetch('/data/Religions_data.json')
+    fetch('data/Religions_data.json')
       .then(response => response.json())
       .then(data => setReligionsData(data))
       .catch(error => console.error('Error fetching data:', error));

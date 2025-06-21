@@ -45,7 +45,7 @@ const Ayurvedics = () => {
   useEffect(() => {
       window.scrollTo(0, 0);
       
-      fetch('/data/Ayurvedics_data.json')
+      fetch('data/Ayurvedics_data.json')
         .then(response => response.json())
         .then(data => setAyurvedicsData(data))
         .catch(error => console.error('Error fetching data:', error));

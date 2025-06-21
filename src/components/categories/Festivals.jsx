@@ -95,7 +95,7 @@ const Festivals = () => {
 
   useEffect(() => {
     window.scrollTo(0, 0);
-    fetch('/data/Festivals_data.json')
+    fetch('data/Festivals_data.json')
       .then(response => response.json())
       .then(data => setFestivalsData(data))
       .catch(error => console.error('Error fetching data:', error));
