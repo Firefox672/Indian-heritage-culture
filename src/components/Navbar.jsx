@@ -3,7 +3,7 @@ import './Navbar.css';
 import { useNavigate } from 'react-router-dom';
 
 const NavbarComponent = () => {
-  const titleWords = ['TITLE', 'OF', 'THE', 'WEBPAGE'];
+  const titleWords = ['INDIA', 'HERITAGE', '&', 'CULTURE'];
   const navigate = useNavigate();
 
   const handleNavigation = (path) => {

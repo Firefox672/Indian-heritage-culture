@@ -9,7 +9,7 @@ const NavComponent = ({ onTitleVisibleChange }) => {
   const [showTitle, setShowTitle] = useState(false);
   const [isBlobVisible, setIsBlobVisible] = useState(false); // Visibility state for Blob3DViewer
 
-  const titleWords = 'TITLE OF THE WEBPAGE'.split(' ');
+  const titleWords = 'INDIA HERITAGE & CULTURE'.split(' ');
 
   const wordRefs = useRef([]);
   if (wordRefs.current.length !== titleWords.length) {
