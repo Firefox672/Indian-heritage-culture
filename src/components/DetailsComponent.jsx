@@ -4,15 +4,15 @@ import './DetailsComponent.css';
 
 
 const categoryData = [
-  { name: 'Indian\'s Architecture', image: 'images/India_Gate.webp', route: 'architecture' },
-  { name: 'Indian\'s Dance Forms', image: 'images/indian_dance_form.png' , route: 'dance'},
-  { name: 'Indian\'s Festivals', image: 'images/indian_festival.png' , route: 'festivals'},
-  { name: 'India\'s Cuisine', image: 'images/indian_food_1.png' , route: 'food'},
-  { name: 'Indian\'s Music', image: 'images/indian_music.png', route: 'music' },
-  { name: 'Indian\'s Crafts', image: 'images/indian_crafts.png', route: 'crafts' },
-  { name: 'Indian\'s Religions', image: 'images/indian_religion.png', route: 'religions' },
-  { name: 'India\'s Ayurvedics', image: 'images/indian_ayurvedic.png', route: 'ayurvedics' },
-  { name: 'India\'s Historic Palaces', image: 'images/indian_palaces.png', route: 'palaces' },
+  { name: 'Architecture', image: 'images/India_Gate.webp', route: 'architecture' },
+  { name: 'Dance Forms', image: 'images/indian_dance_form.png' , route: 'dance'},
+  { name: 'Festivals', image: 'images/indian_festival.png' , route: 'festivals'},
+  { name: 'Cuisine', image: 'images/indian_food_1.png' , route: 'food'},
+  { name: 'Music', image: 'images/indian_music.png', route: 'music' },
+  { name: 'Crafts', image: 'images/indian_crafts.png', route: 'crafts' },
+  { name: 'Religions', image: 'images/indian_religion.png', route: 'religions' },
+  { name: 'Ayurvedics', image: 'images/indian_ayurvedic.png', route: 'ayurvedics' },
+  { name: 'Historic Palaces', image: 'images/indian_palaces.png', route: 'palaces' },
 ];
 
 const CategoryBoxes = ({ visibilityArray }) => {
@@ -40,7 +40,7 @@ const CategoryBoxes = ({ visibilityArray }) => {
   return (
     <>
       <div className="cat-head">
-        <h1 className="fade-h1 show">Categories Heading</h1>
+        <h1 className="fade-h1 show">Explore INDIA</h1>
       </div>
       <div className="categories">
         {categoryData.map((category, index) => (
@@ -162,10 +162,11 @@ function DetailsComponent() {
     <div>
       <div className='contentBox' ref={contentRef}>
         <div className='description'>
-          <h1 className={`fade-h1 ${isContentVisible ? 'show' : ''}`}>Content for the Title</h1>
+          <h1 className={`fade-h1 ${isContentVisible ? 'show' : ''}`}>A Brief Intro</h1>
           <br />
           <p className={`fade-p ${isContentVisible ? 'show' : ''}`}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt voluptatum laboriosam repellat deserunt cupiditate qui...
+                        India's heritage and culture are a rich blend of ancient history, spiritual depth, and artistic expression. As the birthplace of major religions like Hinduism and Buddhism, and home to diverse faiths, India has long embraced unity in diversity. Its legacy includes grand architecture, classical music and dance, vibrant festivals, and a vast literary tradition across many languages. From ancient scientific achievements to holistic practices like yoga and Ayurveda, India's culture reflects a balance of tradition and innovation—deeply rooted, yet ever-evolving.
+
           </p>
         </div>
       </div>

@@ -6,18 +6,19 @@ function App() {
 
   const [showScrollButton, setShowScrollButton] = useState(false);
 
-  useEffect(() =>{
-    const handleScroll = () =>{
-      setShowScrollButton(window.scrollY>100);
-    }
-    window.addEventListener('scroll', handleScroll)
+  useEffect(() => {
+    const handleScroll = () => {
+      setShowScrollButton(window.scrollY > 100); // Show button after scrolling 100px
+    };
 
-    return() => window.removeEventListener('scroll', handleScroll);
-  }, [])
+    window.addEventListener('scroll', handleScroll);
+
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
 
   const scrollToTop = () => {
-    window.scrollTo({ top:0, behavior:'smooth'})
-  }
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
 
   return (
     <div className="app-container">
@@ -26,12 +27,11 @@ function App() {
         <div className="background-blob blob-2"></div>
         <div className="background-blob blob-3"></div>
       </div>
-
-        {showScrollButton &&(
-          <div className = "scroll-to-top" onClick={scrollToTop}>
-            <img src="icons/up.png" alt="⬆️" className='up-arrow' />
-          </div>
-        )}
+              {showScrollButton && (
+                <div className="scroll-to-top" onClick={scrollToTop}>
+                  <img src="icons/up.png" alt="⬆️" className='up-arrow' />
+                </div>
+              )}
       <Routing />
     </div>
   );

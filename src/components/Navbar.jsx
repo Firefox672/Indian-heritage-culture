@@ -24,7 +24,7 @@ const NavbarComponent = () => {
         <li onClick={() => handleNavigation('/')}>Home</li>
         <li onClick={() => handleNavigation('/aboutus')}>About Us</li>
         <li onClick={() => handleNavigation('/explore')}>Explore</li>
-        <li onClick={() => handleNavigation('/contact')}>Contact Us</li>
+        <li onClick={() => handleNavigation('/contactus')}>Contact Us</li>
       </ul>
     </div>
   );

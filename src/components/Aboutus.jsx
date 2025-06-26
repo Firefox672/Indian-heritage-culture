@@ -1,4 +1,4 @@
-import Navbar from 'cdbreact/dist/components/Navbar'
+import Navbar from './Navbar'
 import React from 'react'
 import FooterComponent from './FooterComponent'
 

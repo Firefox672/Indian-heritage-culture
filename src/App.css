@@ -102,3 +102,39 @@
     transform: translate(-400px, -300px) scale(1);
   }
 }
+
+.scroll-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 50px;
+  height: 50px;
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 50%;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  color: white;
+  cursor: pointer;
+  transition: transform 0.2s ease, background 0.2s ease;
+  z-index: 1000;
+}
+
+.scroll-to-top:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: scale(1.1);
+}
+
+.scroll-to-top:active {
+  transform: scale(0.95);
+}
+
+.up-arrow{
+  width: 2rem;
+  height: 2rem;
+}

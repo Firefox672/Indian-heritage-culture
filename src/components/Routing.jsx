@@ -37,8 +37,8 @@ function LayoutWrapper() {
         <Route path="/ayurvedics" element={<Ayurvedics />} />
         <Route path="/palaces" element={<Palaces />} />
         <Route path="/aboutus" element={<Aboutus/>} />
-        <Route path="/contactus" element={<Contactus/>} />
         <Route path="/explore" element={<Explore/>} />
+        <Route path="/contactus" element={<Contactus/>} />
       </Routes>
       {isHomePage && <FooterComponent />}
     </>
