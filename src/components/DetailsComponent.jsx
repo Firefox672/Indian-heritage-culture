@@ -73,10 +73,14 @@ const CategoryBoxes = ({ visibilityArray }) => {
 
 const Explore = ({ isVisible }) => {
   const [clicked, setClicked] = useState(false);
+  const navigate = useNavigate();
 
   const handleClick = () => {
     setClicked(true);
-    setTimeout(() => setClicked(false), 200); // reset animation after 0.5s
+    setTimeout(() => {
+      setClicked(false);
+      navigate('/explore');
+    }, 200); // reset animation after 0.5s
   };
 
   return (

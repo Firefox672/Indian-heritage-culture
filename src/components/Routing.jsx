@@ -14,6 +14,10 @@ import Palaces from './categories/Palaces';
 import NavComponent from './NavComponent';
 import FooterComponent from './FooterComponent';
 
+import Aboutus from './Aboutus';
+import Explore from './explore/Explore';
+import Contactus from './Contactus';
+
 function LayoutWrapper() {
   const location = useLocation();
   const isHomePage = location.pathname === '/';
@@ -32,6 +36,9 @@ function LayoutWrapper() {
         <Route path="/religions" element={<Religions />} />
         <Route path="/ayurvedics" element={<Ayurvedics />} />
         <Route path="/palaces" element={<Palaces />} />
+        <Route path="/aboutus" element={<Aboutus/>} />
+        <Route path="/contactus" element={<Contactus/>} />
+        <Route path="/explore" element={<Explore/>} />
       </Routes>
       {isHomePage && <FooterComponent />}
     </>

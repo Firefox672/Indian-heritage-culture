@@ -2,6 +2,7 @@ import React, { useEffect, useRef, useState, Suspense } from 'react';
 import { CSSTransition } from 'react-transition-group';
 import './NavComponent.css';
 import Blob3DViewer from './Blob3DViewer'; // Assumed to be a heavy component
+import { useNavigate } from 'react-router-dom';
 
 const NavComponent = ({ onTitleVisibleChange }) => {
   const navBodyRef = useRef(null);
@@ -66,9 +67,10 @@ const NavComponent = ({ onTitleVisibleChange }) => {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-
-  const [activeItem, setActiveItem] = useState('Home');
-  const navItems = ['Home', 'About-Us', 'Explore', 'Contact-Us'];
+  const navigate = useNavigate();
+  const handleNavigation =(path) =>{
+    navigate(path);
+  }
 
 
   return (
@@ -102,15 +104,10 @@ const NavComponent = ({ onTitleVisibleChange }) => {
         </div>
 
 <ul className="nav-items">
-  {navItems.map((item) => (
-    <li
-      key={item}
-      className={activeItem === item ? 'active' : ''}
-      onClick={() => setActiveItem(item)}
-    >
-      {item}
-    </li>
-  ))}
+<li onClick={() => handleNavigation('/')}>Home</li>
+<li onClick={() => handleNavigation('/aboutus')}>About Us</li>
+<li onClick={() => handleNavigation('/explore')}>Explore</li>
+<li onClick={() => handleNavigation('/contactus')}>Contact Us</li>
 </ul>
 
       </div>

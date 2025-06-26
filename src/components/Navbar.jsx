@@ -1,9 +1,14 @@
 import React from 'react';
 import './Navbar.css';
+import { useNavigate } from 'react-router-dom';
 
 const NavbarComponent = () => {
   const titleWords = ['TITLE', 'OF', 'THE', 'WEBPAGE'];
-  const navItems = ['Home', 'About-Us', 'Explore', 'Contact-Us'];
+  const navigate = useNavigate();
+
+  const handleNavigation = (path) => {
+    navigate(path);
+  }
 
   return (
     <div className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top custom-navbar">
@@ -16,9 +21,10 @@ const NavbarComponent = () => {
       </div>
 
       <ul className="nav-items">
-        {navItems.map((item) => (
-          <li key={item}>{item}</li>
-        ))}
+        <li onClick={() => handleNavigation('/')}>Home</li>
+        <li onClick={() => handleNavigation('/aboutus')}>About Us</li>
+        <li onClick={() => handleNavigation('/explore')}>Explore</li>
+        <li onClick={() => handleNavigation('/contact')}>Contact Us</li>
       </ul>
     </div>
   );
