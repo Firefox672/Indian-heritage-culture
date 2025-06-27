@@ -1,4 +1,5 @@
-import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
+// import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
 import DetailsComponent from './DetailsComponent';
 
 import Architecture from './categories/Architecture';
@@ -47,7 +48,7 @@ function LayoutWrapper() {
 
 function Routing() {
   return (
-    <Router basename="/indian-heritage-culture">
+    <Router>
       <LayoutWrapper />
     </Router>
   );

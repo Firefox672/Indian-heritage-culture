@@ -1,13 +1,10 @@
 import React from 'react'
-import Navbar from './Navbar'
-import FooterComponent from './FooterComponent'
+import Comingsoon from './Comingsoon'
 
 const Contactus = () => {
   return (
     <div>
-      
-      <Navbar/>
-      <FooterComponent/>
+      <Comingsoon/>
     </div>
   )
 }

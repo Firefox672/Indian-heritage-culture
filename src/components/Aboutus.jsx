@@ -1,12 +1,10 @@
-import Navbar from './Navbar'
 import React from 'react'
-import FooterComponent from './FooterComponent'
+import Comingsoon from './Comingsoon'
 
 const Aboutus = () => {
   return (
     <div>
-      <Navbar/>
-      <FooterComponent/>
+      <Comingsoon/>
     </div>
   )
 }
